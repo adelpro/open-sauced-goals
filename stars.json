@@ -1,9 +1,9 @@
 [
   {
     "full_name": "IshakBenfredj/dakirni",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 10,
+    "open_issues_count": 2,
+    "forks_count": 2
   },
   {
     "full_name": "rehooks/online-status",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 4100,
+    "stargazers_count": 4102,
     "open_issues_count": 0,
-    "forks_count": 305
+    "forks_count": 306
   },
   {
     "full_name": "Hemadou-youcef/nr-brtq-frontend",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "ZainRk/React-Admin-Dashboard-public",
-    "stargazers_count": 102,
+    "stargazers_count": 104,
     "open_issues_count": 1,
-    "forks_count": 71
+    "forks_count": 74
   },
   {
     "full_name": "Ahmed0Elsayed0Shalby/My-web",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "instamobile/recipes-app-react-native",
-    "stargazers_count": 586,
+    "stargazers_count": 585,
     "open_issues_count": 23,
     "forks_count": 193
   },
@@ -110,7 +110,7 @@
   {
     "full_name": "quran/quran.com-api",
     "stargazers_count": 571,
-    "open_issues_count": 111,
+    "open_issues_count": 112,
     "forks_count": 147
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 426,
-    "open_issues_count": 109,
-    "forks_count": 149
+    "stargazers_count": 428,
+    "open_issues_count": 114,
+    "forks_count": 150
   },
   {
     "full_name": "aboozaid/react-native-facerecognition",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "GriffinJohnston/uiball-loaders",
-    "stargazers_count": 732,
+    "stargazers_count": 733,
     "open_issues_count": 2,
     "forks_count": 22
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "aliftype/amiri",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 24,
     "forks_count": 30
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "gregberge/loadable-components",
-    "stargazers_count": 6735,
+    "stargazers_count": 6740,
     "open_issues_count": 17,
-    "forks_count": 372
+    "forks_count": 371
   },
   {
     "full_name": "AhmedElTabarani/dorar-hadith-api",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "react-native-svg/react-native-svg",
-    "stargazers_count": 6252,
-    "open_issues_count": 324,
-    "forks_count": 909
+    "stargazers_count": 6259,
+    "open_issues_count": 321,
+    "forks_count": 911
   }
 ]
