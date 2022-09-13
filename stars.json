@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ipfs/kubo",
+    "stargazers_count": 14123,
+    "open_issues_count": 1187,
+    "forks_count": 2788
+  },
+  {
     "full_name": "Ben-Bourne/react-leaflet-location-picker",
     "stargazers_count": 6,
     "open_issues_count": 5,
@@ -13,8 +19,8 @@
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 14947,
-    "open_issues_count": 14,
+    "stargazers_count": 14959,
+    "open_issues_count": 12,
     "forks_count": 1480
   },
   {
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 4120,
+    "stargazers_count": 4128,
     "open_issues_count": 0,
     "forks_count": 311
   },
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "instamobile/recipes-app-react-native",
-    "stargazers_count": 585,
+    "stargazers_count": 587,
     "open_issues_count": 23,
-    "forks_count": 194
+    "forks_count": 195
   },
   {
     "full_name": "ReactNativeSchool/react-native-timer",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 12,
     "forks_count": 22
   },
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "quran/quran.com-api",
-    "stargazers_count": 574,
-    "open_issues_count": 108,
+    "stargazers_count": 578,
+    "open_issues_count": 109,
     "forks_count": 147
   },
   {
@@ -139,8 +145,8 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 431,
-    "open_issues_count": 107,
+    "stargazers_count": 434,
+    "open_issues_count": 111,
     "forks_count": 150
   },
   {
@@ -170,13 +176,7 @@
   {
     "full_name": "aliftype/amiri",
     "stargazers_count": 298,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 30
-  },
-  {
-    "full_name": "adelpro/Font-Awesome-SVG-PNG",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
