@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "gitdagray/mern_stack_course",
+    "stargazers_count": 71,
+    "open_issues_count": 1,
+    "forks_count": 50
+  },
+  {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5359,
-    "open_issues_count": 37,
+    "stargazers_count": 5391,
+    "open_issues_count": 35,
     "forks_count": 84
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 14134,
-    "open_issues_count": 1184,
+    "stargazers_count": 14146,
+    "open_issues_count": 1180,
     "forks_count": 2797
   },
   {
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 14992,
+    "stargazers_count": 15008,
     "open_issues_count": 13,
-    "forks_count": 1479
+    "forks_count": 1478
   },
   {
     "full_name": "IshakBenfredj/dakirni",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 4185,
+    "stargazers_count": 4215,
     "open_issues_count": 0,
-    "forks_count": 316
+    "forks_count": 323
   },
   {
     "full_name": "Hemadou-youcef/nr-brtq-frontend",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "instamobile/recipes-app-react-native",
-    "stargazers_count": 589,
+    "stargazers_count": 590,
     "open_issues_count": 23,
-    "forks_count": 195
+    "forks_count": 194
   },
   {
     "full_name": "ReactNativeSchool/react-native-timer",
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "ajhadi/React-Native-Note-App",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -116,7 +122,7 @@
   {
     "full_name": "YunsGeek/Quraan-Player",
     "stargazers_count": 101,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 14
   },
   {
@@ -135,11 +141,11 @@
     "full_name": "HouariZegai/PrayerTimes",
     "stargazers_count": 148,
     "open_issues_count": 2,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "quran/quran.com-api",
-    "stargazers_count": 582,
+    "stargazers_count": 583,
     "open_issues_count": 109,
     "forks_count": 149
   },
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 438,
+    "stargazers_count": 440,
     "open_issues_count": 107,
-    "forks_count": 150
+    "forks_count": 153
   },
   {
     "full_name": "aboozaid/react-native-facerecognition",
-    "stargazers_count": 170,
+    "stargazers_count": 172,
     "open_issues_count": 31,
     "forks_count": 78
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "GriffinJohnston/uiball-loaders",
-    "stargazers_count": 744,
+    "stargazers_count": 747,
     "open_issues_count": 1,
     "forks_count": 22
-  },
-  {
-    "full_name": "rishipr/feeder-react-feedback",
-    "stargazers_count": 62,
-    "open_issues_count": 23,
-    "forks_count": 15
   }
 ]
