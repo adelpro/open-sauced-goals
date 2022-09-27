@@ -1,21 +1,33 @@
 [
   {
-    "full_name": "gitdagray/mern_stack_course",
-    "stargazers_count": 71,
+    "full_name": "ahmed303080/healthy-food",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "fvilers/disable-react-devtools",
+    "stargazers_count": 58,
     "open_issues_count": 1,
-    "forks_count": 50
+    "forks_count": 3
+  },
+  {
+    "full_name": "gitdagray/mern_stack_course",
+    "stargazers_count": 74,
+    "open_issues_count": 1,
+    "forks_count": 57
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5391,
-    "open_issues_count": 35,
-    "forks_count": 84
+    "stargazers_count": 5414,
+    "open_issues_count": 36,
+    "forks_count": 85
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 14146,
-    "open_issues_count": 1180,
-    "forks_count": 2797
+    "stargazers_count": 14170,
+    "open_issues_count": 1178,
+    "forks_count": 2800
   },
   {
     "full_name": "Ben-Bourne/react-leaflet-location-picker",
@@ -26,14 +38,14 @@
   {
     "full_name": "iqbalansyor/react-native-vega-scroll-list",
     "stargazers_count": 58,
-    "open_issues_count": 0,
-    "forks_count": 11
+    "open_issues_count": 1,
+    "forks_count": 12
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 15008,
-    "open_issues_count": 13,
-    "forks_count": 1478
+    "stargazers_count": 15013,
+    "open_issues_count": 12,
+    "forks_count": 1479
   },
   {
     "full_name": "IshakBenfredj/dakirni",
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 4215,
+    "stargazers_count": 4231,
     "open_issues_count": 0,
-    "forks_count": 323
+    "forks_count": 325
   },
   {
     "full_name": "Hemadou-youcef/nr-brtq-frontend",
@@ -67,7 +79,7 @@
   },
   {
     "full_name": "ZainRk/React-Admin-Dashboard-public",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 1,
     "forks_count": 77
   },
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "instamobile/recipes-app-react-native",
-    "stargazers_count": 590,
+    "stargazers_count": 591,
     "open_issues_count": 23,
     "forks_count": 194
   },
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "YunsGeek/Quraan-Player",
-    "stargazers_count": 101,
+    "stargazers_count": 100,
     "open_issues_count": 0,
     "forks_count": 14
   },
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "quran/quran.com-api",
-    "stargazers_count": 583,
+    "stargazers_count": 585,
     "open_issues_count": 109,
     "forks_count": 149
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 440,
-    "open_issues_count": 107,
-    "forks_count": 153
+    "stargazers_count": 442,
+    "open_issues_count": 101,
+    "forks_count": 155
   },
   {
     "full_name": "aboozaid/react-native-facerecognition",
     "stargazers_count": 172,
     "open_issues_count": 31,
     "forks_count": 78
-  },
-  {
-    "full_name": "rishipr/dog-vision",
-    "stargazers_count": 5,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "GriffinJohnston/uiball-loaders",
-    "stargazers_count": 747,
-    "open_issues_count": 1,
-    "forks_count": 22
   }
 ]
