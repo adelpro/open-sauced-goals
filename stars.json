@@ -1,9 +1,9 @@
 [
   {
     "full_name": "dvtng/react-loading-skeleton",
-    "stargazers_count": 3017,
+    "stargazers_count": 3019,
     "open_issues_count": 0,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "ahmed303080/healthy-food",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "gitdagray/mern_stack_course",
-    "stargazers_count": 85,
+    "stargazers_count": 92,
     "open_issues_count": 0,
-    "forks_count": 60
+    "forks_count": 72
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5494,
-    "open_issues_count": 38,
-    "forks_count": 89
+    "stargazers_count": 5712,
+    "open_issues_count": 41,
+    "forks_count": 92
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 14191,
-    "open_issues_count": 1178,
-    "forks_count": 2803
+    "stargazers_count": 14206,
+    "open_issues_count": 1180,
+    "forks_count": 2809
   },
   {
     "full_name": "Ben-Bourne/react-leaflet-location-picker",
@@ -45,13 +45,13 @@
     "full_name": "iqbalansyor/react-native-vega-scroll-list",
     "stargazers_count": 58,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 15025,
+    "stargazers_count": 15041,
     "open_issues_count": 13,
-    "forks_count": 1480
+    "forks_count": 1482
   },
   {
     "full_name": "IshakBenfredj/dakirni",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 4247,
+    "stargazers_count": 4249,
     "open_issues_count": 0,
     "forks_count": 331
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "quran/quran.com-api",
-    "stargazers_count": 586,
+    "stargazers_count": 588,
     "open_issues_count": 109,
     "forks_count": 149
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 445,
-    "open_issues_count": 103,
-    "forks_count": 157
+    "stargazers_count": 447,
+    "open_issues_count": 104,
+    "forks_count": 158
   }
 ]
