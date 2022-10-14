@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "gitdagray/react_jwt_auth",
+    "stargazers_count": 157,
+    "open_issues_count": 3,
+    "forks_count": 79
+  },
+  {
     "full_name": "gitdagray/react_register_form",
     "stargazers_count": 50,
     "open_issues_count": 1,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "dvtng/react-loading-skeleton",
-    "stargazers_count": 3027,
+    "stargazers_count": 3032,
     "open_issues_count": 0,
     "forks_count": 132
   },
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "gitdagray/mern_stack_course",
-    "stargazers_count": 99,
+    "stargazers_count": 102,
     "open_issues_count": 0,
-    "forks_count": 79
+    "forks_count": 84
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5862,
-    "open_issues_count": 42,
-    "forks_count": 93
+    "stargazers_count": 5900,
+    "open_issues_count": 39,
+    "forks_count": 95
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 14223,
-    "open_issues_count": 1190,
-    "forks_count": 2815
+    "stargazers_count": 14238,
+    "open_issues_count": 1175,
+    "forks_count": 2818
   },
   {
     "full_name": "Ben-Bourne/react-leaflet-location-picker",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 15062,
-    "open_issues_count": 12,
-    "forks_count": 1485
+    "stargazers_count": 15087,
+    "open_issues_count": 11,
+    "forks_count": 1491
   },
   {
     "full_name": "IshakBenfredj/dakirni",
     "stargazers_count": 11,
-    "open_issues_count": 2,
-    "forks_count": 2
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "rehooks/online-status",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 4268,
+    "stargazers_count": 4293,
     "open_issues_count": 0,
-    "forks_count": 335
+    "forks_count": 340
   },
   {
     "full_name": "Hemadou-youcef/nr-brtq-frontend",
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "ZainRk/React-Admin-Dashboard-public",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 1,
     "forks_count": 80
   },
@@ -123,7 +129,7 @@
     "full_name": "instamobile/recipes-app-react-native",
     "stargazers_count": 592,
     "open_issues_count": 23,
-    "forks_count": 196
+    "forks_count": 197
   },
   {
     "full_name": "ReactNativeSchool/react-native-timer",
@@ -172,11 +178,5 @@
     "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 8
-  },
-  {
-    "full_name": "HouariZegai/PrayerTimes",
-    "stargazers_count": 149,
-    "open_issues_count": 2,
-    "forks_count": 36
   }
 ]
