@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "shashankkatte/feedbackr-mern",
+    "stargazers_count": 7,
+    "open_issues_count": 4,
+    "forks_count": 4
+  },
+  {
+    "full_name": "sayands/feedback-app",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ujjalacharya/bell-notification-mern",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "finallyayo/web-push",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 16
+  },
+  {
+    "full_name": "nebaz/telegram-notify",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "adelpro/svg-social-media-rounded-bar",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -19,9 +49,9 @@
   },
   {
     "full_name": "Clueless-Community/web-ui-kit",
-    "stargazers_count": 153,
-    "open_issues_count": 17,
-    "forks_count": 133
+    "stargazers_count": 158,
+    "open_issues_count": 30,
+    "forks_count": 148
   },
   {
     "full_name": "learn-quran/web",
@@ -43,13 +73,13 @@
   },
   {
     "full_name": "nosir/cleave.js",
-    "stargazers_count": 17564,
+    "stargazers_count": 17568,
     "open_issues_count": 201,
-    "forks_count": 1640
+    "forks_count": 1639
   },
   {
     "full_name": "stereobooster/react-snap",
-    "stargazers_count": 4799,
+    "stargazers_count": 4803,
     "open_issues_count": 185,
     "forks_count": 378
   },
@@ -60,22 +90,22 @@
     "forks_count": 3
   },
   {
-    "full_name": "adelpro/MERN-auth-roles",
+    "full_name": "adelpro/MERN-auth-roles-boilerplate",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "gitdagray/react_jwt_auth",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 4,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "gitdagray/react_register_form",
     "stargazers_count": 53,
     "open_issues_count": 1,
-    "forks_count": 73
+    "forks_count": 75
   },
   {
     "full_name": "learn-quran/native",
@@ -91,9 +121,9 @@
   },
   {
     "full_name": "dvtng/react-loading-skeleton",
-    "stargazers_count": 3048,
+    "stargazers_count": 3050,
     "open_issues_count": 0,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "ahmed303080/healthy-food",
@@ -109,20 +139,20 @@
   },
   {
     "full_name": "gitdagray/mern_stack_course",
-    "stargazers_count": 115,
+    "stargazers_count": 120,
     "open_issues_count": 0,
-    "forks_count": 97
+    "forks_count": 99
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5992,
-    "open_issues_count": 42,
-    "forks_count": 100
+    "stargazers_count": 6021,
+    "open_issues_count": 43,
+    "forks_count": 102
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 14266,
-    "open_issues_count": 1182,
+    "stargazers_count": 14276,
+    "open_issues_count": 1187,
     "forks_count": 2822
   },
   {
@@ -139,7 +169,7 @@
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 15143,
+    "stargazers_count": 15154,
     "open_issues_count": 7,
     "forks_count": 1496
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "rehooks/online-status",
-    "stargazers_count": 119,
-    "open_issues_count": 16,
-    "forks_count": 10
-  },
-  {
-    "full_name": "adelpro/check-hadith-native",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 4313,
-    "open_issues_count": 0,
-    "forks_count": 348
-  },
-  {
-    "full_name": "Hemadou-youcef/nr-brtq-frontend",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ZainRk/React-Admin-Dashboard-public",
-    "stargazers_count": 115,
-    "open_issues_count": 1,
-    "forks_count": 81
   }
 ]
