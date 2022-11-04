@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "nastyox/Repo-Roster",
+    "stargazers_count": 204,
+    "open_issues_count": 2,
+    "forks_count": 19
+  },
+  {
+    "full_name": "jwenjian/visitor-badge",
+    "stargazers_count": 715,
+    "open_issues_count": 0,
+    "forks_count": 187
+  },
+  {
+    "full_name": "codingmarket07/Notification-Dropdown-Nov19",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "atapas/notifyme",
+    "stargazers_count": 116,
+    "open_issues_count": 13,
+    "forks_count": 41
+  },
+  {
     "full_name": "shashankkatte/feedbackr-mern",
     "stargazers_count": 7,
     "open_issues_count": 4,
@@ -25,7 +49,7 @@
   },
   {
     "full_name": "nebaz/telegram-notify",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -48,10 +72,10 @@
     "forks_count": 0
   },
   {
-    "full_name": "Clueless-Community/web-ui-kit",
-    "stargazers_count": 169,
-    "open_issues_count": 13,
-    "forks_count": 159
+    "full_name": "Clueless-Community/seamless-ui",
+    "stargazers_count": 171,
+    "open_issues_count": 10,
+    "forks_count": 158
   },
   {
     "full_name": "learn-quran/web",
@@ -67,25 +91,25 @@
   },
   {
     "full_name": "gjbae1212/hit-counter",
-    "stargazers_count": 688,
+    "stargazers_count": 692,
     "open_issues_count": 16,
     "forks_count": 65
   },
   {
     "full_name": "nosir/cleave.js",
-    "stargazers_count": 17571,
-    "open_issues_count": 201,
-    "forks_count": 1642
+    "stargazers_count": 17572,
+    "open_issues_count": 202,
+    "forks_count": 1643
   },
   {
     "full_name": "stereobooster/react-snap",
-    "stargazers_count": 4804,
+    "stargazers_count": 4807,
     "open_issues_count": 186,
     "forks_count": 379
   },
   {
     "full_name": "AhmedElTabarani/hadith-checker-extension",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -97,15 +121,15 @@
   },
   {
     "full_name": "gitdagray/react_jwt_auth",
-    "stargazers_count": 172,
+    "stargazers_count": 174,
     "open_issues_count": 4,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "gitdagray/react_register_form",
     "stargazers_count": 53,
     "open_issues_count": 1,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "learn-quran/native",
@@ -121,9 +145,9 @@
   },
   {
     "full_name": "dvtng/react-loading-skeleton",
-    "stargazers_count": 3051,
+    "stargazers_count": 3056,
     "open_issues_count": 0,
-    "forks_count": 135
+    "forks_count": 134
   },
   {
     "full_name": "ahmed303080/healthy-food",
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "gitdagray/mern_stack_course",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 0,
-    "forks_count": 103
+    "forks_count": 105
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 6044,
-    "open_issues_count": 43,
-    "forks_count": 102
+    "stargazers_count": 6052,
+    "open_issues_count": 42,
+    "forks_count": 103
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 14292,
-    "open_issues_count": 1184,
-    "forks_count": 2825
-  },
-  {
-    "full_name": "Ben-Bourne/react-leaflet-location-picker",
-    "stargazers_count": 6,
-    "open_issues_count": 5,
-    "forks_count": 5
-  },
-  {
-    "full_name": "iqbalansyor/react-native-vega-scroll-list",
-    "stargazers_count": 59,
-    "open_issues_count": 1,
-    "forks_count": 14
-  },
-  {
-    "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 15170,
-    "open_issues_count": 6,
-    "forks_count": 1497
-  },
-  {
-    "full_name": "IshakBenfredj/dakirni",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 14303,
+    "open_issues_count": 1185,
+    "forks_count": 2826
   }
 ]
