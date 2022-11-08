@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "BrisaDiaz/Mern-stack-delivery-app",
+    "stargazers_count": 31,
+    "open_issues_count": 1,
+    "forks_count": 17
+  },
+  {
+    "full_name": "coder/code-server",
+    "stargazers_count": 57488,
+    "open_issues_count": 208,
+    "forks_count": 4813
+  },
+  {
     "full_name": "nastyox/Repo-Roster",
-    "stargazers_count": 204,
+    "stargazers_count": 205,
     "open_issues_count": 2,
     "forks_count": 19
   },
   {
     "full_name": "jwenjian/visitor-badge",
-    "stargazers_count": 715,
+    "stargazers_count": 718,
     "open_issues_count": 0,
-    "forks_count": 187
+    "forks_count": 186
   },
   {
     "full_name": "codingmarket07/Notification-Dropdown-Nov19",
@@ -74,8 +86,8 @@
   {
     "full_name": "Clueless-Community/seamless-ui",
     "stargazers_count": 171,
-    "open_issues_count": 10,
-    "forks_count": 158
+    "open_issues_count": 7,
+    "forks_count": 157
   },
   {
     "full_name": "learn-quran/web",
@@ -91,21 +103,21 @@
   },
   {
     "full_name": "gjbae1212/hit-counter",
-    "stargazers_count": 692,
+    "stargazers_count": 695,
     "open_issues_count": 16,
     "forks_count": 65
   },
   {
     "full_name": "nosir/cleave.js",
-    "stargazers_count": 17572,
+    "stargazers_count": 17573,
     "open_issues_count": 202,
-    "forks_count": 1643
+    "forks_count": 1644
   },
   {
     "full_name": "stereobooster/react-snap",
-    "stargazers_count": 4807,
+    "stargazers_count": 4810,
     "open_issues_count": 186,
-    "forks_count": 379
+    "forks_count": 381
   },
   {
     "full_name": "AhmedElTabarani/hadith-checker-extension",
@@ -115,19 +127,19 @@
   },
   {
     "full_name": "adelpro/MERN-auth-roles-boilerplate",
-    "stargazers_count": 1,
+    "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "gitdagray/react_jwt_auth",
-    "stargazers_count": 174,
+    "stargazers_count": 175,
     "open_issues_count": 4,
-    "forks_count": 88
+    "forks_count": 93
   },
   {
     "full_name": "gitdagray/react_register_form",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 1,
     "forks_count": 77
   },
@@ -145,9 +157,9 @@
   },
   {
     "full_name": "dvtng/react-loading-skeleton",
-    "stargazers_count": 3056,
+    "stargazers_count": 3063,
     "open_issues_count": 0,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "ahmed303080/healthy-food",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "gitdagray/mern_stack_course",
-    "stargazers_count": 126,
+    "stargazers_count": 130,
     "open_issues_count": 0,
-    "forks_count": 105
-  },
-  {
-    "full_name": "formkit/auto-animate",
-    "stargazers_count": 6052,
-    "open_issues_count": 42,
-    "forks_count": 103
-  },
-  {
-    "full_name": "ipfs/kubo",
-    "stargazers_count": 14303,
-    "open_issues_count": 1185,
-    "forks_count": 2826
+    "forks_count": 109
   }
 ]
