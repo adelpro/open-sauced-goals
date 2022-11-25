@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "tejachundru/react-native-awesome-text",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "socketio/socket.io",
+    "stargazers_count": 57134,
+    "open_issues_count": 94,
+    "forks_count": 10106
+  },
+  {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 10930,
+    "stargazers_count": 10978,
     "open_issues_count": 25,
-    "forks_count": 323
+    "forks_count": 326
   },
   {
     "full_name": "kamronbatman/joi-password-complexity",
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "vineethtrv/css-loader",
-    "stargazers_count": 581,
+    "stargazers_count": 586,
     "open_issues_count": 2,
     "forks_count": 63
   },
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 3584,
+    "stargazers_count": 3596,
     "open_issues_count": 74,
-    "forks_count": 4207
+    "forks_count": 4222
   },
   {
     "full_name": "novuhq/blog",
-    "stargazers_count": 195,
+    "stargazers_count": 197,
     "open_issues_count": 3,
-    "forks_count": 127
+    "forks_count": 130
   },
   {
     "full_name": "kyhsa93/profile-image-api",
@@ -67,13 +79,13 @@
   },
   {
     "full_name": "pixel-point/fontpie",
-    "stargazers_count": 184,
-    "open_issues_count": 6,
+    "stargazers_count": 190,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "t4t5/sweetalert",
-    "stargazers_count": 22153,
+    "stargazers_count": 22156,
     "open_issues_count": 185,
     "forks_count": 2897
   },
@@ -85,21 +97,21 @@
   },
   {
     "full_name": "coder/code-server",
-    "stargazers_count": 57726,
+    "stargazers_count": 57784,
     "open_issues_count": 217,
-    "forks_count": 4827
+    "forks_count": 4832
   },
   {
     "full_name": "nastyox/Repo-Roster",
-    "stargazers_count": 209,
+    "stargazers_count": 225,
     "open_issues_count": 2,
     "forks_count": 20
   },
   {
     "full_name": "jwenjian/visitor-badge",
-    "stargazers_count": 721,
+    "stargazers_count": 723,
     "open_issues_count": 1,
-    "forks_count": 192
+    "forks_count": 193
   },
   {
     "full_name": "codingmarket07/Notification-Dropdown-Nov19",
@@ -117,7 +129,7 @@
     "full_name": "shashankkatte/feedbackr-mern",
     "stargazers_count": 7,
     "open_issues_count": 4,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "sayands/feedback-app",
@@ -166,17 +178,5 @@
     "stargazers_count": 172,
     "open_issues_count": 7,
     "forks_count": 156
-  },
-  {
-    "full_name": "learn-quran/web",
-    "stargazers_count": 8,
-    "open_issues_count": 23,
-    "forks_count": 1
-  },
-  {
-    "full_name": "adelpro/hadith-checker-extension",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
