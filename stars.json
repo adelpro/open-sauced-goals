@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "adelpro/Simple-styled-login-form",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "adelpro/Socketio-auth",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "socketio/socket.io",
-    "stargazers_count": 57153,
-    "open_issues_count": 96,
-    "forks_count": 10109
+    "stargazers_count": 57184,
+    "open_issues_count": 97,
+    "forks_count": 10108
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 11036,
-    "open_issues_count": 28,
-    "forks_count": 327
+    "stargazers_count": 11099,
+    "open_issues_count": 20,
+    "forks_count": 326
   },
   {
     "full_name": "kamronbatman/joi-password-complexity",
@@ -43,13 +49,13 @@
   },
   {
     "full_name": "vineethtrv/css-loader",
-    "stargazers_count": 592,
+    "stargazers_count": 601,
     "open_issues_count": 2,
     "forks_count": 63
   },
   {
     "full_name": "LloydJanseVanRensburg/mern-filtering-tutorial",
-    "stargazers_count": 21,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 3615,
-    "open_issues_count": 74,
-    "forks_count": 4241
+    "stargazers_count": 3633,
+    "open_issues_count": 75,
+    "forks_count": 4247
   },
   {
     "full_name": "novuhq/blog",
-    "stargazers_count": 201,
+    "stargazers_count": 203,
     "open_issues_count": 3,
-    "forks_count": 131
+    "forks_count": 133
   },
   {
     "full_name": "kyhsa93/profile-image-api",
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "pixel-point/fontpie",
-    "stargazers_count": 192,
+    "stargazers_count": 205,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "t4t5/sweetalert",
-    "stargazers_count": 22159,
+    "stargazers_count": 22164,
     "open_issues_count": 185,
-    "forks_count": 2896
+    "forks_count": 2899
   },
   {
     "full_name": "BrisaDiaz/Mern-stack-delivery-app",
@@ -103,19 +109,19 @@
   },
   {
     "full_name": "coder/code-server",
-    "stargazers_count": 57833,
+    "stargazers_count": 57869,
     "open_issues_count": 218,
-    "forks_count": 4832
+    "forks_count": 4833
   },
   {
     "full_name": "nastyox/Repo-Roster",
-    "stargazers_count": 226,
+    "stargazers_count": 228,
     "open_issues_count": 2,
     "forks_count": 21
   },
   {
     "full_name": "jwenjian/visitor-badge",
-    "stargazers_count": 726,
+    "stargazers_count": 732,
     "open_issues_count": 1,
     "forks_count": 192
   },
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "adelpro/vscode-auto-minify",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "adelpro/fontawesome-svgs",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
