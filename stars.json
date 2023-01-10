@@ -7,9 +7,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 18391,
-    "open_issues_count": 14,
-    "forks_count": 735
+    "stargazers_count": 18459,
+    "open_issues_count": 16,
+    "forks_count": 739
   },
   {
     "full_name": "Eniola-Codes/Food-Order-Landing-Page",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "sdkcarlos/artyom.js",
-    "stargazers_count": 1132,
+    "stargazers_count": 1134,
     "open_issues_count": 71,
     "forks_count": 380
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "quran/quran_android",
-    "stargazers_count": 1589,
-    "open_issues_count": 245,
+    "stargazers_count": 1591,
+    "open_issues_count": 249,
     "forks_count": 820
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 520,
+    "stargazers_count": 524,
     "open_issues_count": 114,
-    "forks_count": 177
+    "forks_count": 178
   },
   {
     "full_name": "quran/beautifulprayer",
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "socketio/socket.io",
-    "stargazers_count": 57368,
-    "open_issues_count": 110,
-    "forks_count": 10138
+    "stargazers_count": 57388,
+    "open_issues_count": 102,
+    "forks_count": 10135
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 11501,
-    "open_issues_count": 19,
-    "forks_count": 344
+    "stargazers_count": 11551,
+    "open_issues_count": 12,
+    "forks_count": 347
   },
   {
     "full_name": "kamronbatman/joi-password-complexity",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "vineethtrv/css-loader",
-    "stargazers_count": 647,
+    "stargazers_count": 653,
     "open_issues_count": 0,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "LloydJanseVanRensburg/mern-filtering-tutorial",
@@ -129,7 +129,7 @@
     "full_name": "BinaryWares/SSE_NODE_DEMO",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "omar-diaa-48/real-time-API-server",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "safak/youtube",
-    "stargazers_count": 3780,
+    "stargazers_count": 3796,
     "open_issues_count": 79,
-    "forks_count": 4412
+    "forks_count": 4421
   },
   {
     "full_name": "novuhq/blog",
-    "stargazers_count": 267,
+    "stargazers_count": 270,
     "open_issues_count": 4,
-    "forks_count": 183
+    "forks_count": 187
   },
   {
     "full_name": "kyhsa93/profile-image-api",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "pixel-point/fontpie",
-    "stargazers_count": 246,
+    "stargazers_count": 249,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "t4t5/sweetalert",
-    "stargazers_count": 22193,
+    "stargazers_count": 22197,
     "open_issues_count": 186,
-    "forks_count": 2900
+    "forks_count": 2899
   },
   {
     "full_name": "BrisaDiaz/Mern-stack-delivery-app",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "coder/code-server",
-    "stargazers_count": 58373,
-    "open_issues_count": 231,
-    "forks_count": 4868
+    "stargazers_count": 58432,
+    "open_issues_count": 232,
+    "forks_count": 4865
   }
 ]
