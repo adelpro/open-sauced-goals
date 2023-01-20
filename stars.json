@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "codifytools/react-npm-package-boilerplate",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "timolins/react-hot-toast",
+    "stargazers_count": 6463,
+    "open_issues_count": 87,
+    "forks_count": 207
+  },
+  {
+    "full_name": "thefaiz/react-dialog",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "GeoffSelby/cra-template-tailwindcss",
+    "stargazers_count": 37,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "aakashns/simple-component-library",
     "stargazers_count": 50,
     "open_issues_count": 5,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "josephDev123/note-taking-app",
@@ -13,15 +37,15 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 86532,
+    "stargazers_count": 86869,
     "open_issues_count": 32,
-    "forks_count": 12274
+    "forks_count": 12313
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 77914,
+    "stargazers_count": 78055,
     "open_issues_count": 70,
-    "forks_count": 10485
+    "forks_count": 10518
   },
   {
     "full_name": "jawblet/npm-test",
@@ -31,21 +55,21 @@
   },
   {
     "full_name": "nandorojo/moti",
-    "stargazers_count": 3110,
-    "open_issues_count": 12,
+    "stargazers_count": 3114,
+    "open_issues_count": 14,
     "forks_count": 93
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 2454,
-    "open_issues_count": 7,
+    "stargazers_count": 2458,
+    "open_issues_count": 6,
     "forks_count": 221
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12697,
+    "stargazers_count": 12705,
     "open_issues_count": 9,
-    "forks_count": 424
+    "forks_count": 425
   },
   {
     "full_name": "KyleAMathews/react-headroom",
@@ -55,15 +79,15 @@
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 34157,
+    "stargazers_count": 34192,
     "open_issues_count": 1,
-    "forks_count": 2939
+    "forks_count": 2940
   },
   {
     "full_name": "semarketir/quranjson",
     "stargazers_count": 431,
     "open_issues_count": 9,
-    "forks_count": 204
+    "forks_count": 205
   },
   {
     "full_name": "caseyjkey/ipfs-music-player",
@@ -81,7 +105,7 @@
     "full_name": "geekyshow1/loginregreactjsmui1",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "saver711/ahmedhasan",
@@ -91,9 +115,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 18582,
+    "stargazers_count": 18633,
     "open_issues_count": 19,
-    "forks_count": 745
+    "forks_count": 746
   },
   {
     "full_name": "Eniola-Codes/Food-Order-Landing-Page",
@@ -121,7 +145,7 @@
   },
   {
     "full_name": "sdkcarlos/artyom.js",
-    "stargazers_count": 1136,
+    "stargazers_count": 1137,
     "open_issues_count": 72,
     "forks_count": 380
   },
@@ -133,15 +157,15 @@
   },
   {
     "full_name": "quran/quran_android",
-    "stargazers_count": 1593,
-    "open_issues_count": 246,
+    "stargazers_count": 1594,
+    "open_issues_count": 245,
     "forks_count": 821
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 530,
-    "open_issues_count": 115,
-    "forks_count": 180
+    "stargazers_count": 533,
+    "open_issues_count": 117,
+    "forks_count": 181
   },
   {
     "full_name": "quran/beautifulprayer",
@@ -154,29 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "adelpro/Socketio-auth",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "tejachundru/react-native-awesome-text",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "socketio/socket.io",
-    "stargazers_count": 57428,
-    "open_issues_count": 103,
-    "forks_count": 10139
-  },
-  {
-    "full_name": "pmndrs/jotai",
-    "stargazers_count": 11699,
-    "open_issues_count": 12,
-    "forks_count": 351
   }
 ]
