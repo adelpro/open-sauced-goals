@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "imzaumza/CodeLab-GPTChat3",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "BetimShala/quran-images-api",
     "stargazers_count": 27,
     "open_issues_count": 2,
@@ -9,7 +15,7 @@
     "full_name": "KaiHotz/react-rollup-boilerplate",
     "stargazers_count": 246,
     "open_issues_count": 1,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "adelpro/elkiram-elbarara",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 51666,
-    "open_issues_count": 387,
-    "forks_count": 6281
+    "stargazers_count": 51732,
+    "open_issues_count": 389,
+    "forks_count": 6291
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6565,
+    "stargazers_count": 6580,
     "open_issues_count": 91,
-    "forks_count": 212
+    "forks_count": 213
   },
   {
     "full_name": "thefaiz/react-dialog",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "aakashns/simple-component-library",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 5,
     "forks_count": 34
   },
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 89768,
-    "open_issues_count": 37,
-    "forks_count": 12653
+    "stargazers_count": 90225,
+    "open_issues_count": 38,
+    "forks_count": 12722
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 79168,
+    "stargazers_count": 79274,
     "open_issues_count": 75,
-    "forks_count": 10703
+    "forks_count": 10719
   },
   {
     "full_name": "jawblet/npm-test",
@@ -91,19 +97,19 @@
   },
   {
     "full_name": "nandorojo/moti",
-    "stargazers_count": 3150,
-    "open_issues_count": 5,
-    "forks_count": 93
+    "stargazers_count": 3154,
+    "open_issues_count": 2,
+    "forks_count": 95
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 2471,
+    "stargazers_count": 2482,
     "open_issues_count": 7,
     "forks_count": 224
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12721,
+    "stargazers_count": 12719,
     "open_issues_count": 9,
     "forks_count": 425
   },
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 34474,
+    "stargazers_count": 34526,
     "open_issues_count": 1,
-    "forks_count": 2963
+    "forks_count": 2966
   },
   {
     "full_name": "semarketir/quranjson",
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "djizco/mern-boilerplate",
-    "stargazers_count": 214,
+    "stargazers_count": 216,
     "open_issues_count": 5,
     "forks_count": 85
   },
@@ -141,7 +147,7 @@
     "full_name": "geekyshow1/loginregreactjsmui1",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 10
   },
   {
     "full_name": "saver711/ahmedhasan",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 18918,
-    "open_issues_count": 11,
-    "forks_count": 764
+    "stargazers_count": 18969,
+    "open_issues_count": 13,
+    "forks_count": 767
   },
   {
     "full_name": "Eniola-Codes/Food-Order-Landing-Page",
@@ -172,11 +178,5 @@
     "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "Dhruvgoyal431/Shopify",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
