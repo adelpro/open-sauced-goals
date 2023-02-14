@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "adelpro/benyahia-openAI",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "htmlpreview/htmlpreview.github.com",
+    "stargazers_count": 1260,
+    "open_issues_count": 47,
+    "forks_count": 272
+  },
+  {
+    "full_name": "gitdagray/react_search_filter",
+    "stargazers_count": 26,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "gitdagray/skeleton-loading",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "gitdagray/react-debounce",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "imzaumza/CodeLab-GPTChat3",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -25,15 +55,15 @@
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1409,
+    "stargazers_count": 1410,
     "open_issues_count": 32,
-    "forks_count": 238
+    "forks_count": 241
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 51732,
-    "open_issues_count": 389,
-    "forks_count": 6291
+    "stargazers_count": 51818,
+    "open_issues_count": 366,
+    "forks_count": 6298
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -49,7 +79,7 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6580,
+    "stargazers_count": 6611,
     "open_issues_count": 91,
     "forks_count": 213
   },
@@ -79,15 +109,15 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 90225,
-    "open_issues_count": 38,
-    "forks_count": 12722
+    "stargazers_count": 90596,
+    "open_issues_count": 37,
+    "forks_count": 12770
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 79274,
-    "open_issues_count": 75,
-    "forks_count": 10719
+    "stargazers_count": 79369,
+    "open_issues_count": 74,
+    "forks_count": 10728
   },
   {
     "full_name": "jawblet/npm-test",
@@ -97,20 +127,20 @@
   },
   {
     "full_name": "nandorojo/moti",
-    "stargazers_count": 3154,
+    "stargazers_count": 3157,
     "open_issues_count": 2,
     "forks_count": 95
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 2482,
-    "open_issues_count": 7,
+    "stargazers_count": 2489,
+    "open_issues_count": 6,
     "forks_count": 224
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12719,
-    "open_issues_count": 9,
+    "stargazers_count": 12721,
+    "open_issues_count": 10,
     "forks_count": 425
   },
   {
@@ -121,15 +151,15 @@
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 34526,
+    "stargazers_count": 34581,
     "open_issues_count": 1,
     "forks_count": 2966
   },
   {
     "full_name": "semarketir/quranjson",
-    "stargazers_count": 435,
+    "stargazers_count": 441,
     "open_issues_count": 9,
-    "forks_count": 205
+    "forks_count": 207
   },
   {
     "full_name": "caseyjkey/ipfs-music-player",
@@ -139,7 +169,7 @@
   },
   {
     "full_name": "djizco/mern-boilerplate",
-    "stargazers_count": 216,
+    "stargazers_count": 217,
     "open_issues_count": 5,
     "forks_count": 85
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 10
-  },
-  {
-    "full_name": "saver711/ahmedhasan",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 18969,
-    "open_issues_count": 13,
-    "forks_count": 767
-  },
-  {
-    "full_name": "Eniola-Codes/Food-Order-Landing-Page",
-    "stargazers_count": 27,
-    "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
-    "full_name": "kirandebnath81/Glimpse-notes",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "techjuliana/Ecommerce-Coffee-Delivery",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
