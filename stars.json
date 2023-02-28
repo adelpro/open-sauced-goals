@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "shamahoque/mern-classroom",
+    "stargazers_count": 195,
+    "open_issues_count": 5,
+    "forks_count": 37
+  },
+  {
     "full_name": "rutikkpatel/HTML-CSS",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "wambugucoder/MERN-JWT-AND-ROLE-AUTH",
-    "stargazers_count": 33,
+    "stargazers_count": 35,
     "open_issues_count": 51,
     "forks_count": 7
   },
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1269,
+    "stargazers_count": 1271,
     "open_issues_count": 49,
     "forks_count": 275
   },
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "gitdagray/react-debounce",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "KaiHotz/react-rollup-boilerplate",
-    "stargazers_count": 245,
+    "stargazers_count": 246,
     "open_issues_count": 2,
     "forks_count": 56
   },
@@ -69,13 +75,13 @@
     "full_name": "jh3y/whirl",
     "stargazers_count": 1415,
     "open_issues_count": 32,
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52068,
-    "open_issues_count": 366,
-    "forks_count": 6328
+    "stargazers_count": 52125,
+    "open_issues_count": 361,
+    "forks_count": 6338
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6677,
-    "open_issues_count": 93,
-    "forks_count": 215
+    "stargazers_count": 6699,
+    "open_issues_count": 92,
+    "forks_count": 216
   },
   {
     "full_name": "thefaiz/react-dialog",
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 92349,
-    "open_issues_count": 40,
-    "forks_count": 12963
+    "stargazers_count": 92871,
+    "open_issues_count": 42,
+    "forks_count": 13045
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 79711,
+    "stargazers_count": 80106,
     "open_issues_count": 76,
-    "forks_count": 10788
+    "forks_count": 10818
   },
   {
     "full_name": "jawblet/npm-test",
@@ -139,19 +145,19 @@
   },
   {
     "full_name": "nandorojo/moti",
-    "stargazers_count": 3172,
+    "stargazers_count": 3182,
     "open_issues_count": 2,
     "forks_count": 97
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 2505,
+    "stargazers_count": 2510,
     "open_issues_count": 6,
-    "forks_count": 226
+    "forks_count": 225
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12738,
+    "stargazers_count": 12739,
     "open_issues_count": 10,
     "forks_count": 425
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 34718,
+    "stargazers_count": 34760,
     "open_issues_count": 1,
-    "forks_count": 2974
+    "forks_count": 2977
   },
   {
     "full_name": "semarketir/quranjson",
-    "stargazers_count": 442,
+    "stargazers_count": 443,
     "open_issues_count": 9,
-    "forks_count": 207
-  },
-  {
-    "full_name": "caseyjkey/ipfs-music-player",
-    "stargazers_count": 11,
-    "open_issues_count": 22,
-    "forks_count": 0
+    "forks_count": 208
   }
 ]
