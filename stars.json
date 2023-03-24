@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "coder/awesome-code-server",
+    "stargazers_count": 131,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
     "full_name": "hifrontendcafe/website",
     "stargazers_count": 20,
     "open_issues_count": 5,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 607,
+    "stargazers_count": 608,
     "open_issues_count": 4,
-    "forks_count": 195
+    "forks_count": 196
   },
   {
     "full_name": "shamahoque/mern-classroom",
-    "stargazers_count": 197,
+    "stargazers_count": 198,
     "open_issues_count": 6,
     "forks_count": 39
   },
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "wambugucoder/MERN-JWT-AND-ROLE-AUTH",
-    "stargazers_count": 43,
-    "open_issues_count": 52,
+    "stargazers_count": 45,
+    "open_issues_count": 53,
     "forks_count": 8
   },
   {
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "gitdagray/react-debounce",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "imzaumza/CodeLab-GPTChat3",
@@ -75,7 +81,7 @@
     "full_name": "KaiHotz/react-rollup-boilerplate",
     "stargazers_count": 247,
     "open_issues_count": 3,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "adelpro/elkiram-elbarara",
@@ -87,13 +93,13 @@
     "full_name": "jh3y/whirl",
     "stargazers_count": 1419,
     "open_issues_count": 32,
-    "forks_count": 244
+    "forks_count": 247
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52553,
-    "open_issues_count": 368,
-    "forks_count": 6387
+    "stargazers_count": 52621,
+    "open_issues_count": 351,
+    "forks_count": 6390
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6810,
+    "stargazers_count": 6828,
     "open_issues_count": 93,
-    "forks_count": 217
+    "forks_count": 218
   },
   {
     "full_name": "thefaiz/react-dialog",
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 94905,
-    "open_issues_count": 30,
-    "forks_count": 13337
+    "stargazers_count": 95251,
+    "open_issues_count": 29,
+    "forks_count": 13395
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 80563,
+    "stargazers_count": 80632,
     "open_issues_count": 78,
-    "forks_count": 10914
+    "forks_count": 10924
   },
   {
     "full_name": "jawblet/npm-test",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "nandorojo/moti",
-    "stargazers_count": 3224,
+    "stargazers_count": 3230,
     "open_issues_count": 3,
     "forks_count": 99
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 2537,
+    "stargazers_count": 2544,
     "open_issues_count": 6,
     "forks_count": 228
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12782,
+    "stargazers_count": 12788,
     "open_issues_count": 9,
-    "forks_count": 425
-  },
-  {
-    "full_name": "KyleAMathews/react-headroom",
-    "stargazers_count": 1770,
-    "open_issues_count": 50,
-    "forks_count": 151
+    "forks_count": 426
   }
 ]
