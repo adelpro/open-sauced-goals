@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "shamahoque/mern-skeleton",
+    "stargazers_count": 238,
+    "open_issues_count": 2,
+    "forks_count": 90
+  },
+  {
     "full_name": "openai/evals",
-    "stargazers_count": 7179,
-    "open_issues_count": 331,
-    "forks_count": 1136
+    "stargazers_count": 7473,
+    "open_issues_count": 374,
+    "forks_count": 1214
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 88818,
-    "open_issues_count": 626,
-    "forks_count": 19065
+    "stargazers_count": 89866,
+    "open_issues_count": 634,
+    "forks_count": 19179
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1368,
+    "stargazers_count": 1371,
     "open_issues_count": 23,
-    "forks_count": 277
+    "forks_count": 276
   },
   {
     "full_name": "coder/awesome-code-server",
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 609,
+    "stargazers_count": 610,
     "open_issues_count": 2,
-    "forks_count": 197
+    "forks_count": 199
   },
   {
     "full_name": "shamahoque/mern-classroom",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 3,
-    "forks_count": 39
+    "forks_count": 38
   },
   {
     "full_name": "rutikkpatel/HTML-CSS",
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1283,
+    "stargazers_count": 1285,
     "open_issues_count": 49,
-    "forks_count": 278
+    "forks_count": 280
   },
   {
     "full_name": "gitdagray/react_search_filter",
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "gitdagray/skeleton-loading",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "gitdagray/react-debounce",
-    "stargazers_count": 10,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -105,7 +111,7 @@
     "full_name": "KaiHotz/react-rollup-boilerplate",
     "stargazers_count": 248,
     "open_issues_count": 3,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "adelpro/elkiram-elbarara",
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1423,
+    "stargazers_count": 1426,
     "open_issues_count": 32,
-    "forks_count": 246
+    "forks_count": 247
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52762,
-    "open_issues_count": 357,
-    "forks_count": 6399
+    "stargazers_count": 52841,
+    "open_issues_count": 373,
+    "forks_count": 6413
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6883,
+    "stargazers_count": 6909,
     "open_issues_count": 94,
     "forks_count": 218
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 95834,
-    "open_issues_count": 29,
-    "forks_count": 13464
-  },
-  {
-    "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 80944,
-    "open_issues_count": 80,
-    "forks_count": 10963
+    "stargazers_count": 96410,
+    "open_issues_count": 32,
+    "forks_count": 13521
   }
 ]
