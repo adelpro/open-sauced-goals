@@ -1,33 +1,33 @@
 [
   {
     "full_name": "shamahoque/mern-skeleton",
-    "stargazers_count": 238,
+    "stargazers_count": 239,
     "open_issues_count": 2,
-    "forks_count": 90
+    "forks_count": 91
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 7473,
-    "open_issues_count": 374,
-    "forks_count": 1214
+    "stargazers_count": 7669,
+    "open_issues_count": 383,
+    "forks_count": 1270
   },
   {
     "full_name": "shahednasser/quran-extension",
-    "stargazers_count": 70,
+    "stargazers_count": 69,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 89866,
-    "open_issues_count": 634,
-    "forks_count": 19179
+    "stargazers_count": 90869,
+    "open_issues_count": 662,
+    "forks_count": 19300
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1371,
+    "stargazers_count": 1374,
     "open_issues_count": 23,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "coder/awesome-code-server",
@@ -51,7 +51,7 @@
     "full_name": "shamahoque/mern-classroom",
     "stargazers_count": 199,
     "open_issues_count": 3,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "rutikkpatel/HTML-CSS",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "wambugucoder/MERN-JWT-AND-ROLE-AUTH",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 53,
     "forks_count": 8
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1285,
+    "stargazers_count": 1287,
     "open_issues_count": 49,
-    "forks_count": 280
+    "forks_count": 278
   },
   {
     "full_name": "gitdagray/react_search_filter",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1426,
+    "stargazers_count": 1429,
     "open_issues_count": 32,
-    "forks_count": 247
+    "forks_count": 248
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52841,
-    "open_issues_count": 373,
-    "forks_count": 6413
+    "stargazers_count": 52941,
+    "open_issues_count": 360,
+    "forks_count": 6422
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6909,
-    "open_issues_count": 94,
-    "forks_count": 218
+    "stargazers_count": 6930,
+    "open_issues_count": 95,
+    "forks_count": 221
   },
   {
     "full_name": "thefaiz/react-dialog",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 96410,
+    "stargazers_count": 96732,
     "open_issues_count": 32,
-    "forks_count": 13521
+    "forks_count": 13561
   }
 ]
