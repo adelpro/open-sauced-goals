@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "harran55/vuejs-quran-web",
+    "stargazers_count": 19,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "speakeasyjs/speakeasy",
+    "stargazers_count": 2608,
+    "open_issues_count": 63,
+    "forks_count": 235
+  },
+  {
+    "full_name": "risan/quran-json",
+    "stargazers_count": 211,
+    "open_issues_count": 1,
+    "forks_count": 71
+  },
+  {
+    "full_name": "harran55/vue-quran",
+    "stargazers_count": 18,
+    "open_issues_count": 3,
+    "forks_count": 9
+  },
+  {
     "full_name": "shamahoque/mern-skeleton",
     "stargazers_count": 239,
     "open_issues_count": 2,
@@ -7,27 +31,27 @@
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 7669,
-    "open_issues_count": 383,
-    "forks_count": 1270
+    "stargazers_count": 7852,
+    "open_issues_count": 397,
+    "forks_count": 1318
   },
   {
     "full_name": "shahednasser/quran-extension",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 90869,
-    "open_issues_count": 662,
-    "forks_count": 19300
+    "stargazers_count": 91944,
+    "open_issues_count": 672,
+    "forks_count": 19431
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1374,
+    "stargazers_count": 1375,
     "open_issues_count": 23,
-    "forks_count": 277
+    "forks_count": 276
   },
   {
     "full_name": "coder/awesome-code-server",
@@ -38,12 +62,12 @@
   {
     "full_name": "hifrontendcafe/website",
     "stargazers_count": 20,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 610,
+    "stargazers_count": 609,
     "open_issues_count": 2,
     "forks_count": 199
   },
@@ -73,9 +97,9 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1287,
+    "stargazers_count": 1291,
     "open_issues_count": 49,
-    "forks_count": 278
+    "forks_count": 279
   },
   {
     "full_name": "gitdagray/react_search_filter",
@@ -109,7 +133,7 @@
   },
   {
     "full_name": "KaiHotz/react-rollup-boilerplate",
-    "stargazers_count": 248,
+    "stargazers_count": 249,
     "open_issues_count": 3,
     "forks_count": 58
   },
@@ -121,15 +145,15 @@
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1429,
+    "stargazers_count": 1430,
     "open_issues_count": 32,
-    "forks_count": 248
+    "forks_count": 249
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 52941,
-    "open_issues_count": 360,
-    "forks_count": 6422
+    "stargazers_count": 53028,
+    "open_issues_count": 362,
+    "forks_count": 6434
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "codifytools/react-npm-package-boilerplate",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6930,
-    "open_issues_count": 95,
-    "forks_count": 221
+    "stargazers_count": 6947,
+    "open_issues_count": 96,
+    "forks_count": 224
   },
   {
     "full_name": "thefaiz/react-dialog",
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "GeoffSelby/cra-template-tailwindcss",
-    "stargazers_count": 35,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "aakashns/simple-component-library",
-    "stargazers_count": 52,
-    "open_issues_count": 5,
-    "forks_count": 35
-  },
-  {
-    "full_name": "josephDev123/note-taking-app",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 96732,
-    "open_issues_count": 32,
-    "forks_count": 13561
   }
 ]
