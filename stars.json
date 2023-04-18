@@ -1,7 +1,7 @@
 [
   {
     "full_name": "KartikSingh023/Sociopedia",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 1,
     "forks_count": 14
   },
@@ -21,7 +21,7 @@
     "full_name": "risan/quran-json",
     "stargazers_count": 212,
     "open_issues_count": 1,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "harran55/vue-quran",
@@ -37,25 +37,25 @@
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 8092,
-    "open_issues_count": 403,
-    "forks_count": 1382
+    "stargazers_count": 8316,
+    "open_issues_count": 435,
+    "forks_count": 1439
   },
   {
     "full_name": "shahednasser/quran-extension",
-    "stargazers_count": 71,
-    "open_issues_count": 1,
-    "forks_count": 12
+    "stargazers_count": 73,
+    "open_issues_count": 2,
+    "forks_count": 13
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 92823,
-    "open_issues_count": 666,
-    "forks_count": 19558
+    "stargazers_count": 94017,
+    "open_issues_count": 661,
+    "forks_count": 19701
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1380,
+    "stargazers_count": 1382,
     "open_issues_count": 23,
     "forks_count": 278
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1297,
+    "stargazers_count": 1298,
     "open_issues_count": 49,
     "forks_count": 279
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "gitdagray/skeleton-loading",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -123,7 +123,7 @@
     "full_name": "gitdagray/react-debounce",
     "stargazers_count": 12,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "imzaumza/CodeLab-GPTChat3",
@@ -141,7 +141,7 @@
     "full_name": "KaiHotz/react-rollup-boilerplate",
     "stargazers_count": 250,
     "open_issues_count": 3,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "adelpro/elkiram-elbarara",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1432,
+    "stargazers_count": 1431,
     "open_issues_count": 32,
-    "forks_count": 250
+    "forks_count": 248
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 53099,
-    "open_issues_count": 364,
-    "forks_count": 6445
+    "stargazers_count": 53178,
+    "open_issues_count": 368,
+    "forks_count": 6455
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 6971,
+    "stargazers_count": 7020,
     "open_issues_count": 96,
     "forks_count": 224
   }
