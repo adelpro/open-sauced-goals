@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "pejmanhadavi/real-world-example-nestjs-mongoose-jwt-auth",
+    "stargazers_count": 114,
+    "open_issues_count": 22,
+    "forks_count": 38
+  },
+  {
     "full_name": "DenzelCode/nest-auth",
     "stargazers_count": 139,
     "open_issues_count": 0,
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "speakeasyjs/speakeasy",
-    "stargazers_count": 2611,
+    "stargazers_count": 2612,
     "open_issues_count": 64,
     "forks_count": 236
   },
   {
     "full_name": "risan/quran-json",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 1,
     "forks_count": 73
   },
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "shamahoque/mern-skeleton",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 1,
     "forks_count": 92
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 8853,
-    "open_issues_count": 486,
-    "forks_count": 1620
+    "stargazers_count": 8996,
+    "open_issues_count": 517,
+    "forks_count": 1667
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -55,19 +61,19 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 96747,
-    "open_issues_count": 675,
-    "forks_count": 20070
+    "stargazers_count": 97307,
+    "open_issues_count": 689,
+    "forks_count": 20135
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1392,
+    "stargazers_count": 1395,
     "open_issues_count": 23,
-    "forks_count": 279
+    "forks_count": 280
   },
   {
     "full_name": "coder/awesome-code-server",
-    "stargazers_count": 132,
+    "stargazers_count": 131,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 614,
+    "stargazers_count": 615,
     "open_issues_count": 1,
-    "forks_count": 203
+    "forks_count": 204
   },
   {
     "full_name": "shamahoque/mern-classroom",
-    "stargazers_count": 199,
+    "stargazers_count": 201,
     "open_issues_count": 2,
     "forks_count": 38
   },
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "wambugucoder/MERN-JWT-AND-ROLE-AUTH",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 54,
     "forks_count": 8
   },
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1302,
+    "stargazers_count": 1305,
     "open_issues_count": 49,
     "forks_count": 279
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1442,
+    "stargazers_count": 1443,
     "open_issues_count": 32,
-    "forks_count": 249
+    "forks_count": 250
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 53402,
-    "open_issues_count": 355,
-    "forks_count": 6490
+    "stargazers_count": 53452,
+    "open_issues_count": 359,
+    "forks_count": 6500
   },
   {
     "full_name": "Mohammad-Faisal/nodejs-security-best-practices",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "codifytools/react-npm-package-boilerplate",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
