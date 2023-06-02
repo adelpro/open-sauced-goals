@@ -1,13 +1,13 @@
 [
   {
     "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 310,
+    "stargazers_count": 318,
     "open_issues_count": 2,
-    "forks_count": 107
+    "forks_count": 111
   },
   {
     "full_name": "marcomelilli/nestjs-email-authentication",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 12,
     "forks_count": 99
   },
@@ -15,7 +15,7 @@
     "full_name": "pejmanhadavi/real-world-example-nestjs-mongoose-jwt-auth",
     "stargazers_count": 119,
     "open_issues_count": 22,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "DenzelCode/nest-auth",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "speakeasyjs/speakeasy",
-    "stargazers_count": 2614,
+    "stargazers_count": 2613,
     "open_issues_count": 64,
     "forks_count": 237
   },
   {
     "full_name": "risan/quran-json",
-    "stargazers_count": 219,
+    "stargazers_count": 218,
     "open_issues_count": 1,
     "forks_count": 75
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "shamahoque/mern-skeleton",
-    "stargazers_count": 243,
+    "stargazers_count": 246,
     "open_issues_count": 0,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 9781,
-    "open_issues_count": 424,
-    "forks_count": 1883
+    "stargazers_count": 9871,
+    "open_issues_count": 306,
+    "forks_count": 1910
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -73,39 +73,39 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 102093,
-    "open_issues_count": 735,
-    "forks_count": 20709
+    "stargazers_count": 102532,
+    "open_issues_count": 736,
+    "forks_count": 20757
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1410,
+    "stargazers_count": 1411,
     "open_issues_count": 23,
-    "forks_count": 278
+    "forks_count": 280
   },
   {
     "full_name": "coder/awesome-code-server",
-    "stargazers_count": 134,
+    "stargazers_count": 137,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "hifrontendcafe/website",
-    "stargazers_count": 21,
-    "open_issues_count": 9,
+    "stargazers_count": 20,
+    "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 622,
+    "stargazers_count": 623,
     "open_issues_count": 1,
-    "forks_count": 209
+    "forks_count": 211
   },
   {
     "full_name": "shamahoque/mern-classroom",
     "stargazers_count": 204,
     "open_issues_count": 1,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "rutikkpatel/HTML-CSS",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "wambugucoder/MERN-JWT-AND-ROLE-AUTH",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 56,
     "forks_count": 8
   },
@@ -129,7 +129,7 @@
     "full_name": "htmlpreview/htmlpreview.github.com",
     "stargazers_count": 1314,
     "open_issues_count": 52,
-    "forks_count": 282
+    "forks_count": 283
   },
   {
     "full_name": "gitdagray/react_search_filter",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "jh3y/whirl",
-    "stargazers_count": 1453,
+    "stargazers_count": 1455,
     "open_issues_count": 32,
-    "forks_count": 252
+    "forks_count": 253
   }
 ]
