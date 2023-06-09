@@ -1,8 +1,8 @@
 [
   {
     "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 328,
-    "open_issues_count": 3,
+    "stargazers_count": 333,
+    "open_issues_count": 1,
     "forks_count": 112
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "pejmanhadavi/real-world-example-nestjs-mongoose-jwt-auth",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 22,
     "forks_count": 40
   },
@@ -21,7 +21,7 @@
     "full_name": "DenzelCode/nest-auth",
     "stargazers_count": 144,
     "open_issues_count": 0,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "KartikSingh023/Sociopedia",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 10104,
-    "open_issues_count": 246,
-    "forks_count": 1944
+    "stargazers_count": 10245,
+    "open_issues_count": 177,
+    "forks_count": 1963
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 102933,
-    "open_issues_count": 746,
-    "forks_count": 20824
+    "stargazers_count": 103299,
+    "open_issues_count": 759,
+    "forks_count": 20868
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1413,
+    "stargazers_count": 1414,
     "open_issues_count": 23,
-    "forks_count": 283
+    "forks_count": 282
   },
   {
     "full_name": "coder/awesome-code-server",
@@ -92,18 +92,18 @@
   {
     "full_name": "hifrontendcafe/website",
     "stargazers_count": 20,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 626,
+    "stargazers_count": 628,
     "open_issues_count": 1,
     "forks_count": 211
   },
   {
     "full_name": "shamahoque/mern-classroom",
-    "stargazers_count": 205,
+    "stargazers_count": 207,
     "open_issues_count": 1,
     "forks_count": 39
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "wambugucoder/MERN-JWT-AND-ROLE-AUTH",
-    "stargazers_count": 59,
+    "stargazers_count": 61,
     "open_issues_count": 56,
-    "forks_count": 8
+    "forks_count": 10
   },
   {
     "full_name": "adelpro/benyahia-openAI",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1342,
+    "stargazers_count": 1347,
     "open_issues_count": 53,
     "forks_count": 284
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "gitdagray/react-debounce",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "KaiHotz/react-rollup-boilerplate",
-    "stargazers_count": 258,
+    "stargazers_count": 259,
     "open_issues_count": 1,
     "forks_count": 60
   },
@@ -177,6 +177,6 @@
     "full_name": "jh3y/whirl",
     "stargazers_count": 1457,
     "open_issues_count": 32,
-    "forks_count": 252
+    "forks_count": 251
   }
 ]
