@@ -1,9 +1,15 @@
 [
   {
-    "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 333,
+    "full_name": "Charca/astro-movies",
+    "stargazers_count": 98,
     "open_issues_count": 1,
-    "forks_count": 112
+    "forks_count": 20
+  },
+  {
+    "full_name": "shahriarsajeeb/Eshop-tutorial",
+    "stargazers_count": 339,
+    "open_issues_count": 1,
+    "forks_count": 111
   },
   {
     "full_name": "marcomelilli/nestjs-email-authentication",
@@ -13,19 +19,19 @@
   },
   {
     "full_name": "pejmanhadavi/real-world-example-nestjs-mongoose-jwt-auth",
-    "stargazers_count": 120,
+    "stargazers_count": 122,
     "open_issues_count": 22,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "DenzelCode/nest-auth",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 0,
-    "forks_count": 43
+    "forks_count": 42
   },
   {
     "full_name": "KartikSingh023/Sociopedia",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 1,
     "forks_count": 15
   },
@@ -37,13 +43,13 @@
   },
   {
     "full_name": "speakeasyjs/speakeasy",
-    "stargazers_count": 2613,
+    "stargazers_count": 2614,
     "open_issues_count": 64,
     "forks_count": 237
   },
   {
     "full_name": "risan/quran-json",
-    "stargazers_count": 218,
+    "stargazers_count": 219,
     "open_issues_count": 1,
     "forks_count": 75
   },
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "shamahoque/mern-skeleton",
-    "stargazers_count": 248,
+    "stargazers_count": 251,
     "open_issues_count": 0,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 10245,
-    "open_issues_count": 177,
-    "forks_count": 1963
+    "stargazers_count": 10357,
+    "open_issues_count": 188,
+    "forks_count": 1993
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 103299,
-    "open_issues_count": 759,
-    "forks_count": 20868
+    "stargazers_count": 103681,
+    "open_issues_count": 760,
+    "forks_count": 20913
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1414,
+    "stargazers_count": 1416,
     "open_issues_count": 23,
     "forks_count": 282
   },
@@ -92,20 +98,20 @@
   {
     "full_name": "hifrontendcafe/website",
     "stargazers_count": 20,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 12
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 628,
+    "stargazers_count": 630,
     "open_issues_count": 1,
-    "forks_count": 211
+    "forks_count": 212
   },
   {
     "full_name": "shamahoque/mern-classroom",
     "stargazers_count": 207,
-    "open_issues_count": 1,
-    "forks_count": 39
+    "open_issues_count": 0,
+    "forks_count": 41
   },
   {
     "full_name": "rutikkpatel/HTML-CSS",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1347,
+    "stargazers_count": 1349,
     "open_issues_count": 53,
     "forks_count": 284
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "jh3y/whirl",
-    "stargazers_count": 1457,
-    "open_issues_count": 32,
-    "forks_count": 251
   }
 ]
