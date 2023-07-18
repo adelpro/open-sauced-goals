@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "devRangers/wonderingPill",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "facebookexperimental/Recoil",
+    "stargazers_count": 18922,
+    "open_issues_count": 287,
+    "forks_count": 1119
+  },
+  {
+    "full_name": "danilowoz/create-content-loader",
+    "stargazers_count": 1175,
+    "open_issues_count": 9,
+    "forks_count": 281
+  },
+  {
     "full_name": "weibenfalk/nextjs-13-refactor",
     "stargazers_count": 20,
     "open_issues_count": 1,
@@ -13,25 +31,25 @@
   },
   {
     "full_name": "Mr-Radion/nextjs-nestjs-auth-full",
-    "stargazers_count": 36,
+    "stargazers_count": 38,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Charca/astro-movies",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 404,
-    "open_issues_count": 5,
-    "forks_count": 129
+    "stargazers_count": 414,
+    "open_issues_count": 6,
+    "forks_count": 133
   },
   {
     "full_name": "marcomelilli/nestjs-email-authentication",
-    "stargazers_count": 414,
+    "stargazers_count": 415,
     "open_issues_count": 12,
     "forks_count": 100
   },
@@ -61,7 +79,7 @@
   },
   {
     "full_name": "speakeasyjs/speakeasy",
-    "stargazers_count": 2623,
+    "stargazers_count": 2624,
     "open_issues_count": 64,
     "forks_count": 236
   },
@@ -79,15 +97,15 @@
   },
   {
     "full_name": "shamahoque/mern-skeleton",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 1,
     "forks_count": 94
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 11109,
-    "open_issues_count": 109,
-    "forks_count": 2172
+    "stargazers_count": 11134,
+    "open_issues_count": 108,
+    "forks_count": 2177
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -97,19 +115,19 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 107384,
-    "open_issues_count": 717,
-    "forks_count": 21417
+    "stargazers_count": 107788,
+    "open_issues_count": 719,
+    "forks_count": 21471
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1424,
+    "stargazers_count": 1425,
     "open_issues_count": 23,
     "forks_count": 280
   },
   {
     "full_name": "coder/awesome-code-server",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -127,7 +145,7 @@
   },
   {
     "full_name": "shamahoque/mern-classroom",
-    "stargazers_count": 219,
+    "stargazers_count": 220,
     "open_issues_count": 1,
     "forks_count": 42
   },
@@ -151,7 +169,7 @@
   },
   {
     "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1367,
+    "stargazers_count": 1369,
     "open_issues_count": 55,
     "forks_count": 286
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 9
-  },
-  {
-    "full_name": "gitdagray/skeleton-loading",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "gitdagray/react-debounce",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "imzaumza/CodeLab-GPTChat3",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
