@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "danbovey/react-infinite-scroller",
+    "stargazers_count": 3173,
+    "open_issues_count": 98,
+    "forks_count": 519
+  },
+  {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 3799,
-    "open_issues_count": 11,
-    "forks_count": 632
+    "stargazers_count": 3830,
+    "open_issues_count": 12,
+    "forks_count": 639
   },
   {
     "full_name": "devRangers/wonderingPill",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 18973,
+    "stargazers_count": 18979,
     "open_issues_count": 292,
-    "forks_count": 1121
+    "forks_count": 1123
   },
   {
     "full_name": "danilowoz/create-content-loader",
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 436,
-    "open_issues_count": 6,
-    "forks_count": 141
+    "stargazers_count": 443,
+    "open_issues_count": 7,
+    "forks_count": 144
   },
   {
     "full_name": "marcomelilli/nestjs-email-authentication",
-    "stargazers_count": 423,
+    "stargazers_count": 425,
     "open_issues_count": 12,
     "forks_count": 100
   },
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "DenzelCode/nest-auth",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 0,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "KartikSingh023/Sociopedia",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 1,
     "forks_count": 16
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "risan/quran-json",
-    "stargazers_count": 231,
+    "stargazers_count": 233,
     "open_issues_count": 1,
     "forks_count": 77
   },
@@ -105,13 +111,13 @@
     "full_name": "shamahoque/mern-skeleton",
     "stargazers_count": 263,
     "open_issues_count": 2,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 11366,
-    "open_issues_count": 103,
-    "forks_count": 2200
+    "stargazers_count": 11401,
+    "open_issues_count": 104,
+    "forks_count": 2208
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -121,13 +127,13 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 109344,
-    "open_issues_count": 735,
-    "forks_count": 21663
+    "stargazers_count": 109588,
+    "open_issues_count": 761,
+    "forks_count": 21713
   },
   {
     "full_name": "hoangvvo/nextjs-mongodb-app",
-    "stargazers_count": 1427,
+    "stargazers_count": 1428,
     "open_issues_count": 23,
     "forks_count": 280
   },
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "shamahoque/mern-social",
-    "stargazers_count": 645,
+    "stargazers_count": 644,
     "open_issues_count": 3,
     "forks_count": 216
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "htmlpreview/htmlpreview.github.com",
-    "stargazers_count": 1374,
-    "open_issues_count": 55,
-    "forks_count": 287
   }
 ]
