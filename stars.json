@@ -1,15 +1,15 @@
 [
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12167,
-    "open_issues_count": 155,
-    "forks_count": 1361
+    "stargazers_count": 12365,
+    "open_issues_count": 157,
+    "forks_count": 1377
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 24423,
+    "stargazers_count": 24477,
     "open_issues_count": 5,
-    "forks_count": 5709
+    "forks_count": 5731
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 6861,
-    "open_issues_count": 113,
-    "forks_count": 379
+    "stargazers_count": 6899,
+    "open_issues_count": 110,
+    "forks_count": 378
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3240,
+    "stargazers_count": 3241,
     "open_issues_count": 98,
     "forks_count": 507
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 4788,
+    "stargazers_count": 4797,
     "open_issues_count": 43,
     "forks_count": 686
   },
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19412,
-    "open_issues_count": 316,
+    "stargazers_count": 19411,
+    "open_issues_count": 317,
     "forks_count": 1150
   },
   {
     "full_name": "danilowoz/create-content-loader",
-    "stargazers_count": 1206,
+    "stargazers_count": 1207,
     "open_issues_count": 15,
     "forks_count": 283
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "Mr-Radion/nextjs-nestjs-auth-full",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 721,
-    "open_issues_count": 15,
+    "stargazers_count": 725,
+    "open_issues_count": 16,
     "forks_count": 233
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "pejmanhadavi/real-world-example-nestjs-mongoose-jwt-auth",
-    "stargazers_count": 147,
+    "stargazers_count": 148,
     "open_issues_count": 22,
     "forks_count": 44
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "risan/quran-json",
-    "stargazers_count": 296,
+    "stargazers_count": 298,
     "open_issues_count": 3,
     "forks_count": 91
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "openai/evals",
-    "stargazers_count": 13532,
-    "open_issues_count": 118,
-    "forks_count": 2463
+    "stargazers_count": 13565,
+    "open_issues_count": 114,
+    "forks_count": 2465
   },
   {
     "full_name": "shahednasser/quran-extension",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 122579,
-    "open_issues_count": 1038,
-    "forks_count": 24316
+    "stargazers_count": 122970,
+    "open_issues_count": 1051,
+    "forks_count": 24382
   }
 ]
