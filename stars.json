@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "mguay22/shoppy-ui",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mguay22/shoppy-backend",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ahmedmusawir/starter-next13-pages-ts-v3",
     "stargazers_count": 5,
     "open_issues_count": 1,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12428,
-    "open_issues_count": 162,
-    "forks_count": 1385
+    "stargazers_count": 12452,
+    "open_issues_count": 164,
+    "forks_count": 1388
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 24605,
+    "stargazers_count": 24643,
     "open_issues_count": 5,
-    "forks_count": 5783
+    "forks_count": 5807
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -25,13 +37,13 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 6984,
+    "stargazers_count": 7021,
     "open_issues_count": 111,
     "forks_count": 381
   },
   {
     "full_name": "webiny/webiny-examples",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 92,
     "forks_count": 32
   },
@@ -55,13 +67,13 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3241,
+    "stargazers_count": 3242,
     "open_issues_count": 98,
     "forks_count": 507
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 4820,
+    "stargazers_count": 4832,
     "open_issues_count": 43,
     "forks_count": 688
   },
@@ -73,9 +85,9 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19427,
-    "open_issues_count": 317,
-    "forks_count": 1150
+    "stargazers_count": 19429,
+    "open_issues_count": 318,
+    "forks_count": 1151
   },
   {
     "full_name": "danilowoz/create-content-loader",
@@ -109,13 +121,13 @@
   },
   {
     "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 739,
+    "stargazers_count": 742,
     "open_issues_count": 17,
-    "forks_count": 241
+    "forks_count": 242
   },
   {
     "full_name": "marcomelilli/nestjs-email-authentication",
-    "stargazers_count": 462,
+    "stargazers_count": 463,
     "open_issues_count": 13,
     "forks_count": 106
   },
@@ -129,7 +141,7 @@
     "full_name": "DenzelCode/nest-auth",
     "stargazers_count": 189,
     "open_issues_count": 0,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "KartikSingh023/Sociopedia",
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "speakeasyjs/speakeasy",
-    "stargazers_count": 2660,
+    "stargazers_count": 2659,
     "open_issues_count": 66,
     "forks_count": 229
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "shamahoque/mern-skeleton",
-    "stargazers_count": 288,
+    "stargazers_count": 289,
     "open_issues_count": 2,
     "forks_count": 101
-  },
-  {
-    "full_name": "openai/evals",
-    "stargazers_count": 13647,
-    "open_issues_count": 120,
-    "forks_count": 2476
-  },
-  {
-    "full_name": "shahednasser/quran-extension",
-    "stargazers_count": 83,
-    "open_issues_count": 3,
-    "forks_count": 13
   }
 ]
