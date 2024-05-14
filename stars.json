@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "janhq/jan",
+    "stargazers_count": 18304,
+    "open_issues_count": 200,
+    "forks_count": 1054
+  },
+  {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 2753,
-    "open_issues_count": 18,
-    "forks_count": 136
+    "stargazers_count": 3273,
+    "open_issues_count": 13,
+    "forks_count": 152
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 0,
     "forks_count": 59
   },
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 943,
-    "open_issues_count": 5,
+    "stargazers_count": 955,
+    "open_issues_count": 6,
     "forks_count": 23
   },
   {
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12555,
-    "open_issues_count": 172,
-    "forks_count": 1407
+    "stargazers_count": 12570,
+    "open_issues_count": 171,
+    "forks_count": 1408
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 25104,
+    "stargazers_count": 25151,
     "open_issues_count": 5,
-    "forks_count": 5989
+    "forks_count": 6028
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -67,8 +73,8 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 7299,
-    "open_issues_count": 125,
+    "stargazers_count": 7324,
+    "open_issues_count": 124,
     "forks_count": 405
   },
   {
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3253,
+    "stargazers_count": 3252,
     "open_issues_count": 98,
     "forks_count": 508
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 4953,
+    "stargazers_count": 4965,
     "open_issues_count": 44,
-    "forks_count": 700
+    "forks_count": 703
   },
   {
     "full_name": "devRangers/wonderingPill",
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19453,
-    "open_issues_count": 318,
+    "stargazers_count": 19454,
+    "open_issues_count": 319,
     "forks_count": 1162
   },
   {
     "full_name": "danilowoz/create-content-loader",
-    "stargazers_count": 1212,
+    "stargazers_count": 1213,
     "open_issues_count": 16,
     "forks_count": 287
   },
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "Charca/astro-movies",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 1,
     "forks_count": 46
   },
@@ -153,7 +159,7 @@
     "full_name": "shahriarsajeeb/Eshop-tutorial",
     "stargazers_count": 770,
     "open_issues_count": 17,
-    "forks_count": 249
+    "forks_count": 247
   },
   {
     "full_name": "marcomelilli/nestjs-email-authentication",
@@ -172,11 +178,5 @@
     "stargazers_count": 191,
     "open_issues_count": 0,
     "forks_count": 52
-  },
-  {
-    "full_name": "KartikSingh023/Sociopedia",
-    "stargazers_count": 100,
-    "open_issues_count": 1,
-    "forks_count": 18
   }
 ]
