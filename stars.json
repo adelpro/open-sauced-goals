@@ -1,15 +1,15 @@
 [
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 18304,
-    "open_issues_count": 200,
-    "forks_count": 1054
+    "stargazers_count": 18427,
+    "open_issues_count": 194,
+    "forks_count": 1059
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 3273,
-    "open_issues_count": 13,
-    "forks_count": 152
+    "stargazers_count": 3355,
+    "open_issues_count": 16,
+    "forks_count": 162
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 955,
+    "stargazers_count": 971,
     "open_issues_count": 6,
     "forks_count": 23
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12570,
-    "open_issues_count": 171,
-    "forks_count": 1408
+    "stargazers_count": 12588,
+    "open_issues_count": 104,
+    "forks_count": 1409
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 25151,
+    "stargazers_count": 25184,
     "open_issues_count": 5,
-    "forks_count": 6028
+    "forks_count": 6054
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 7324,
-    "open_issues_count": 124,
-    "forks_count": 405
+    "stargazers_count": 7347,
+    "open_issues_count": 125,
+    "forks_count": 407
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3252,
+    "stargazers_count": 3253,
     "open_issues_count": 98,
     "forks_count": 508
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 4965,
+    "stargazers_count": 4972,
     "open_issues_count": 44,
     "forks_count": 703
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19454,
-    "open_issues_count": 319,
-    "forks_count": 1162
+    "stargazers_count": 19459,
+    "open_issues_count": 320,
+    "forks_count": 1165
   },
   {
     "full_name": "danilowoz/create-content-loader",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "shahriarsajeeb/Eshop-tutorial",
-    "stargazers_count": 770,
+    "stargazers_count": 771,
     "open_issues_count": 17,
-    "forks_count": 247
+    "forks_count": 248
   },
   {
     "full_name": "marcomelilli/nestjs-email-authentication",
     "stargazers_count": 468,
     "open_issues_count": 13,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "pejmanhadavi/real-world-example-nestjs-mongoose-jwt-auth",
@@ -177,6 +177,6 @@
     "full_name": "DenzelCode/nest-auth",
     "stargazers_count": 191,
     "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 53
   }
 ]
