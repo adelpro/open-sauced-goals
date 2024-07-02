@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "ouedyan/nextjs-template",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1816,
+    "stargazers_count": 1820,
     "open_issues_count": 23,
     "forks_count": 174
   },
@@ -31,15 +37,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 20586,
-    "open_issues_count": 192,
-    "forks_count": 1179
+    "stargazers_count": 20657,
+    "open_issues_count": 195,
+    "forks_count": 1183
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 4230,
-    "open_issues_count": 24,
-    "forks_count": 228
+    "stargazers_count": 4269,
+    "open_issues_count": 19,
+    "forks_count": 236
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1117,
+    "stargazers_count": 1123,
     "open_issues_count": 12,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "mguay22/shoppy-ui",
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12747,
+    "stargazers_count": 12765,
     "open_issues_count": 112,
-    "forks_count": 1430
+    "forks_count": 1431
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 25576,
+    "stargazers_count": 25606,
     "open_issues_count": 6,
-    "forks_count": 6216
+    "forks_count": 6229
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 7591,
-    "open_issues_count": 132,
-    "forks_count": 432
+    "stargazers_count": 7606,
+    "open_issues_count": 126,
+    "forks_count": 435
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3269,
-    "open_issues_count": 98,
+    "stargazers_count": 3270,
+    "open_issues_count": 97,
     "forks_count": 507
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 5053,
+    "stargazers_count": 5059,
     "open_issues_count": 47,
-    "forks_count": 721
+    "forks_count": 723
   },
   {
     "full_name": "devRangers/wonderingPill",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19491,
-    "open_issues_count": 320,
-    "forks_count": 1171
+    "stargazers_count": 19492,
+    "open_issues_count": 321,
+    "forks_count": 1173
   },
   {
     "full_name": "danilowoz/create-content-loader",
@@ -172,11 +178,5 @@
     "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "Mr-Radion/nextjs-nestjs-auth-full",
-    "stargazers_count": 55,
-    "open_issues_count": 0,
-    "forks_count": 7
   }
 ]
