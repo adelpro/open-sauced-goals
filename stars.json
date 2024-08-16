@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "rayed/Quran",
+    "stargazers_count": 62,
+    "open_issues_count": 0,
+    "forks_count": 32
+  },
+  {
+    "full_name": "quran/ayah-detection",
+    "stargazers_count": 95,
+    "open_issues_count": 4,
+    "forks_count": 40
+  },
+  {
     "full_name": "ouedyan/nextjs-template",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,9 +19,9 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1824,
+    "stargazers_count": 1826,
     "open_issues_count": 23,
-    "forks_count": 175
+    "forks_count": 174
   },
   {
     "full_name": "osamayy/azkar-db",
@@ -37,15 +49,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 21431,
-    "open_issues_count": 179,
-    "forks_count": 1224
+    "stargazers_count": 21475,
+    "open_issues_count": 195,
+    "forks_count": 1228
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 5204,
-    "open_issues_count": 35,
-    "forks_count": 291
+    "stargazers_count": 5273,
+    "open_issues_count": 34,
+    "forks_count": 297
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1310,
+    "stargazers_count": 1316,
     "open_issues_count": 13,
-    "forks_count": 35
+    "forks_count": 37
   },
   {
     "full_name": "mguay22/shoppy-ui",
@@ -91,15 +103,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12904,
+    "stargazers_count": 12917,
     "open_issues_count": 123,
-    "forks_count": 1437
+    "forks_count": 1435
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 26045,
+    "stargazers_count": 26091,
     "open_issues_count": 7,
-    "forks_count": 6405
+    "forks_count": 6425
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 7900,
-    "open_issues_count": 141,
-    "forks_count": 462
+    "stargazers_count": 7938,
+    "open_issues_count": 140,
+    "forks_count": 465
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -139,15 +151,15 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3283,
+    "stargazers_count": 3284,
     "open_issues_count": 97,
     "forks_count": 508
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 5128,
+    "stargazers_count": 5133,
     "open_issues_count": 48,
-    "forks_count": 738
+    "forks_count": 740
   },
   {
     "full_name": "devRangers/wonderingPill",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19540,
+    "stargazers_count": 19544,
     "open_issues_count": 324,
-    "forks_count": 1176
+    "forks_count": 1177
   },
   {
     "full_name": "danilowoz/create-content-loader",
-    "stargazers_count": 1222,
+    "stargazers_count": 1224,
     "open_issues_count": 17,
     "forks_count": 287
-  },
-  {
-    "full_name": "weibenfalk/nextjs-13-refactor",
-    "stargazers_count": 20,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "Zizwar/mushaf-mauri",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
