@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "adelpro/open-mushaf",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "rayed/Quran",
     "stargazers_count": 62,
     "open_issues_count": 0,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1828,
+    "stargazers_count": 1830,
     "open_issues_count": 23,
     "forks_count": 174
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 21663,
-    "open_issues_count": 178,
-    "forks_count": 1240
+    "stargazers_count": 21714,
+    "open_issues_count": 177,
+    "forks_count": 1243
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 5796,
-    "open_issues_count": 36,
-    "forks_count": 311
+    "stargazers_count": 6272,
+    "open_issues_count": 42,
+    "forks_count": 318
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1352,
+    "stargazers_count": 1359,
     "open_issues_count": 14,
     "forks_count": 37
   },
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12961,
-    "open_issues_count": 126,
-    "forks_count": 1445
+    "stargazers_count": 12978,
+    "open_issues_count": 128,
+    "forks_count": 1449
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 26990,
+    "stargazers_count": 27197,
     "open_issues_count": 7,
-    "forks_count": 6565
+    "forks_count": 6593
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 8144,
-    "open_issues_count": 142,
-    "forks_count": 479
+    "stargazers_count": 8164,
+    "open_issues_count": 145,
+    "forks_count": 485
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3289,
+    "stargazers_count": 3290,
     "open_issues_count": 97,
     "forks_count": 508
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 5152,
+    "stargazers_count": 5155,
     "open_issues_count": 48,
-    "forks_count": 740
+    "forks_count": 741
   },
   {
     "full_name": "devRangers/wonderingPill",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19548,
+    "stargazers_count": 19549,
     "open_issues_count": 325,
     "forks_count": 1178
-  },
-  {
-    "full_name": "danilowoz/create-content-loader",
-    "stargazers_count": 1225,
-    "open_issues_count": 17,
-    "forks_count": 287
   }
 ]
