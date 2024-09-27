@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "adelpro/GitHub-action-release-apk-expo",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "adelpro/open-mushaf",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 22180,
-    "open_issues_count": 159,
-    "forks_count": 1276
+    "stargazers_count": 22323,
+    "open_issues_count": 146,
+    "forks_count": 1282
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 7090,
-    "open_issues_count": 38,
-    "forks_count": 351
+    "stargazers_count": 7150,
+    "open_issues_count": 40,
+    "forks_count": 352
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1545,
-    "open_issues_count": 10,
-    "forks_count": 42
+    "stargazers_count": 1634,
+    "open_issues_count": 11,
+    "forks_count": 43
   },
   {
     "full_name": "mguay22/shoppy-ui",
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13071,
-    "open_issues_count": 128,
-    "forks_count": 1460
+    "stargazers_count": 13078,
+    "open_issues_count": 127,
+    "forks_count": 1463
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28058,
+    "stargazers_count": 28098,
     "open_issues_count": 9,
-    "forks_count": 6766
+    "forks_count": 6776
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 8653,
-    "open_issues_count": 146,
-    "forks_count": 527
+    "stargazers_count": 8706,
+    "open_issues_count": 149,
+    "forks_count": 529
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3293,
+    "stargazers_count": 3294,
     "open_issues_count": 97,
     "forks_count": 508
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 5208,
-    "open_issues_count": 48,
-    "forks_count": 743
+    "stargazers_count": 5212,
+    "open_issues_count": 49,
+    "forks_count": 744
   },
   {
     "full_name": "devRangers/wonderingPill",
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 4
-  },
-  {
-    "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 19582,
-    "open_issues_count": 325,
-    "forks_count": 1183
   }
 ]
