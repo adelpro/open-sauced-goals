@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "forabi/aQuran",
+    "stargazers_count": 67,
+    "open_issues_count": 2,
+    "forks_count": 28
+  },
+  {
+    "full_name": "adelpro/open-mushaf-native",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "adelpro/GitHub-action-release-apk-expo",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -21,7 +33,7 @@
     "full_name": "quran/ayah-detection",
     "stargazers_count": 94,
     "open_issues_count": 4,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "ouedyan/nextjs-template",
@@ -33,7 +45,7 @@
     "full_name": "produck/svg-captcha",
     "stargazers_count": 1833,
     "open_issues_count": 23,
-    "forks_count": 175
+    "forks_count": 174
   },
   {
     "full_name": "osamayy/azkar-db",
@@ -43,7 +55,7 @@
   },
   {
     "full_name": "muslimpack/HisnElmoslem_App",
-    "stargazers_count": 167,
+    "stargazers_count": 171,
     "open_issues_count": 0,
     "forks_count": 49
   },
@@ -61,15 +73,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 22323,
-    "open_issues_count": 146,
-    "forks_count": 1282
+    "stargazers_count": 22445,
+    "open_issues_count": 143,
+    "forks_count": 1291
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 7150,
-    "open_issues_count": 40,
-    "forks_count": 352
+    "stargazers_count": 7227,
+    "open_issues_count": 44,
+    "forks_count": 362
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -79,8 +91,8 @@
   },
   {
     "full_name": "muslimpack/Quran",
-    "stargazers_count": 15,
-    "open_issues_count": 4,
+    "stargazers_count": 16,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -91,9 +103,9 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1634,
+    "stargazers_count": 1666,
     "open_issues_count": 11,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "mguay22/shoppy-ui",
@@ -115,15 +127,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13078,
+    "stargazers_count": 13094,
     "open_issues_count": 127,
-    "forks_count": 1463
+    "forks_count": 1466
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28098,
+    "stargazers_count": 28135,
     "open_issues_count": 9,
-    "forks_count": 6776
+    "forks_count": 6791
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -133,9 +145,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 8706,
-    "open_issues_count": 149,
-    "forks_count": 529
+    "stargazers_count": 8759,
+    "open_issues_count": 150,
+    "forks_count": 535
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -166,17 +178,5 @@
     "stargazers_count": 3294,
     "open_issues_count": 97,
     "forks_count": 508
-  },
-  {
-    "full_name": "sadmann7/skateshop",
-    "stargazers_count": 5212,
-    "open_issues_count": 49,
-    "forks_count": 744
-  },
-  {
-    "full_name": "devRangers/wonderingPill",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 4
   }
 ]
