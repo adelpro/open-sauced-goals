@@ -37,13 +37,13 @@
   },
   {
     "full_name": "ouedyan/nextjs-template",
-    "stargazers_count": 3,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1833,
+    "stargazers_count": 1834,
     "open_issues_count": 23,
     "forks_count": 174
   },
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 22445,
-    "open_issues_count": 143,
-    "forks_count": 1291
+    "stargazers_count": 22507,
+    "open_issues_count": 155,
+    "forks_count": 1296
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 7227,
-    "open_issues_count": 44,
+    "stargazers_count": 7287,
+    "open_issues_count": 39,
     "forks_count": 362
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1666,
+    "stargazers_count": 1682,
     "open_issues_count": 11,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "mguay22/shoppy-ui",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "mguay22/shoppy-backend",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13094,
+    "stargazers_count": 13102,
     "open_issues_count": 127,
-    "forks_count": 1466
+    "forks_count": 1469
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28135,
+    "stargazers_count": 28196,
     "open_issues_count": 9,
-    "forks_count": 6791
+    "forks_count": 6819
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 8759,
-    "open_issues_count": 150,
-    "forks_count": 535
+    "stargazers_count": 8793,
+    "open_issues_count": 153,
+    "forks_count": 537
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "beachstrider/react-selection-popup",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 3
   },
