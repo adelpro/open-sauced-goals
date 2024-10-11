@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "jkdrangel/react-native-switch-selector",
+    "stargazers_count": 43,
+    "open_issues_count": 13,
+    "forks_count": 27
+  },
+  {
     "full_name": "forabi/aQuran",
     "stargazers_count": 67,
     "open_issues_count": 2,
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "quran/ayah-detection",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 4,
     "forks_count": 41
   },
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "muslimpack/HisnElmoslem_App",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 0,
     "forks_count": 49
   },
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 22560,
-    "open_issues_count": 161,
-    "forks_count": 1300
+    "stargazers_count": 22623,
+    "open_issues_count": 166,
+    "forks_count": 1304
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 7340,
-    "open_issues_count": 36,
-    "forks_count": 366
+    "stargazers_count": 7397,
+    "open_issues_count": 38,
+    "forks_count": 368
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1709,
+    "stargazers_count": 1719,
     "open_issues_count": 10,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "mguay22/shoppy-ui",
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13115,
-    "open_issues_count": 120,
+    "stargazers_count": 13156,
+    "open_issues_count": 117,
     "forks_count": 1472
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28214,
+    "stargazers_count": 28252,
     "open_issues_count": 9,
-    "forks_count": 6828
+    "forks_count": 6841
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 8847,
-    "open_issues_count": 157,
-    "forks_count": 542
+    "stargazers_count": 8899,
+    "open_issues_count": 153,
+    "forks_count": 544
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 2,
     "forks_count": 0
-  },
-  {
-    "full_name": "danbovey/react-infinite-scroller",
-    "stargazers_count": 3295,
-    "open_issues_count": 97,
-    "forks_count": 508
   }
 ]
