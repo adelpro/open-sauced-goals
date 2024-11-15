@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "DigitalDeveloperAM/LiveDocEditor",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "jkdrangel/react-native-switch-selector",
     "stargazers_count": 44,
     "open_issues_count": 13,
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1862,
+    "stargazers_count": 1865,
     "open_issues_count": 23,
     "forks_count": 174
   },
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "muslimpack/HisnElmoslem_App",
-    "stargazers_count": 176,
+    "stargazers_count": 175,
     "open_issues_count": 0,
     "forks_count": 49
   },
@@ -79,19 +85,19 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 23372,
-    "open_issues_count": 167,
-    "forks_count": 1357
+    "stargazers_count": 23475,
+    "open_issues_count": 174,
+    "forks_count": 1369
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 8893,
-    "open_issues_count": 65,
-    "forks_count": 433
+    "stargazers_count": 9120,
+    "open_issues_count": 70,
+    "forks_count": 448
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 0,
     "forks_count": 63
   },
@@ -109,19 +115,19 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1822,
-    "open_issues_count": 13,
-    "forks_count": 53
+    "stargazers_count": 1826,
+    "open_issues_count": 15,
+    "forks_count": 54
   },
   {
     "full_name": "mguay22/shoppy-ui",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "mguay22/shoppy-backend",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13429,
-    "open_issues_count": 127,
-    "forks_count": 1483
+    "stargazers_count": 13447,
+    "open_issues_count": 129,
+    "forks_count": 1486
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28526,
+    "stargazers_count": 28559,
     "open_issues_count": 10,
-    "forks_count": 6962
+    "forks_count": 6971
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 9263,
-    "open_issues_count": 158,
-    "forks_count": 578
+    "stargazers_count": 9306,
+    "open_issues_count": 161,
+    "forks_count": 583
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -171,12 +177,6 @@
     "full_name": "marwaRadi/Mealify",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "siamahnaf/otp-timer-ts",
-    "stargazers_count": 1,
-    "open_issues_count": 2,
     "forks_count": 0
   }
 ]
