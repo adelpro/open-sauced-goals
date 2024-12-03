@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "somdipdey/Pixelator-View-v2",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "DigitalDeveloperAM/LiveDocEditor",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "muslimpack/HisnElmoslem_App",
-    "stargazers_count": 177,
+    "stargazers_count": 179,
     "open_issues_count": 0,
     "forks_count": 50
   },
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 23809,
-    "open_issues_count": 179,
-    "forks_count": 1386
+    "stargazers_count": 23896,
+    "open_issues_count": 178,
+    "forks_count": 1392
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 9578,
-    "open_issues_count": 79,
-    "forks_count": 482
+    "stargazers_count": 9759,
+    "open_issues_count": 80,
+    "forks_count": 486
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
-    "stargazers_count": 193,
+    "stargazers_count": 192,
     "open_issues_count": 0,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "muslimpack/Quran",
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1894,
-    "open_issues_count": 17,
+    "stargazers_count": 1912,
+    "open_issues_count": 18,
     "forks_count": 55
   },
   {
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13508,
+    "stargazers_count": 13520,
     "open_issues_count": 133,
     "forks_count": 1489
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28667,
+    "stargazers_count": 28683,
     "open_issues_count": 10,
-    "forks_count": 7021
+    "forks_count": 7023
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 9461,
-    "open_issues_count": 164,
-    "forks_count": 593
+    "stargazers_count": 9488,
+    "open_issues_count": 169,
+    "forks_count": 595
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -172,11 +178,5 @@
     "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "marwaRadi/Mealify",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
