@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "nestjs/nest",
+    "stargazers_count": 68349,
+    "open_issues_count": 59,
+    "forks_count": 7679
+  },
+  {
+    "full_name": "adelpro/nextjs-view-transitions",
+    "stargazers_count": 18,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
     "full_name": "somdipdey/Pixelator-View-v2",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "adelpro/open-mushaf-native",
-    "stargazers_count": 2,
+    "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -43,7 +55,7 @@
   },
   {
     "full_name": "rayed/Quran",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 0,
     "forks_count": 34
   },
@@ -91,19 +103,19 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 24080,
-    "open_issues_count": 165,
-    "forks_count": 1396
+    "stargazers_count": 24160,
+    "open_issues_count": 147,
+    "forks_count": 1403
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 10154,
-    "open_issues_count": 84,
-    "forks_count": 508
+    "stargazers_count": 10263,
+    "open_issues_count": 86,
+    "forks_count": 514
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
-    "stargazers_count": 193,
+    "stargazers_count": 195,
     "open_issues_count": 0,
     "forks_count": 65
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1927,
-    "open_issues_count": 18,
-    "forks_count": 55
+    "stargazers_count": 1936,
+    "open_issues_count": 19,
+    "forks_count": 56
   },
   {
     "full_name": "mguay22/shoppy-ui",
@@ -145,15 +157,15 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13544,
+    "stargazers_count": 13554,
     "open_issues_count": 135,
-    "forks_count": 1490
+    "forks_count": 1491
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28733,
+    "stargazers_count": 28765,
     "open_issues_count": 10,
-    "forks_count": 7037
+    "forks_count": 7048
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 9586,
-    "open_issues_count": 171,
-    "forks_count": 601
-  },
-  {
-    "full_name": "webiny/webiny-examples",
-    "stargazers_count": 44,
-    "open_issues_count": 94,
-    "forks_count": 33
-  },
-  {
-    "full_name": "beachstrider/react-selection-popup",
-    "stargazers_count": 45,
-    "open_issues_count": 0,
-    "forks_count": 3
+    "stargazers_count": 9628,
+    "open_issues_count": 177,
+    "forks_count": 603
   }
 ]
