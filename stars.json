@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 68521,
-    "open_issues_count": 61,
-    "forks_count": 7687
+    "stargazers_count": 68569,
+    "open_issues_count": 65,
+    "forks_count": 7688
   },
   {
     "full_name": "adelpro/nextjs-view-transitions",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1871,
+    "stargazers_count": 1870,
     "open_issues_count": 23,
-    "forks_count": 175
+    "forks_count": 176
   },
   {
     "full_name": "osamayy/azkar-db",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 1,
     "forks_count": 56
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 24354,
-    "open_issues_count": 138,
-    "forks_count": 1418
+    "stargazers_count": 24401,
+    "open_issues_count": 142,
+    "forks_count": 1415
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 10559,
-    "open_issues_count": 83,
-    "forks_count": 546
+    "stargazers_count": 10610,
+    "open_issues_count": 78,
+    "forks_count": 552
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 1964,
+    "stargazers_count": 1969,
     "open_issues_count": 19,
     "forks_count": 57
   },
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "ahmedmusawir/starter-next13-pages-ts-v3",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13584,
+    "stargazers_count": 13593,
     "open_issues_count": 132,
-    "forks_count": 1498
+    "forks_count": 1497
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 28839,
+    "stargazers_count": 28872,
     "open_issues_count": 6,
-    "forks_count": 7074
+    "forks_count": 7087
   },
   {
     "full_name": "mohamed-lifa7/salatify",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 9702,
+    "stargazers_count": 9724,
     "open_issues_count": 181,
-    "forks_count": 608
+    "forks_count": 609
   }
 ]
