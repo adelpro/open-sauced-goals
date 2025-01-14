@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "vercel/next-learn",
+    "stargazers_count": 4062,
+    "open_issues_count": 202,
+    "forks_count": 1976
+  },
+  {
     "full_name": "vernu/vps-audit",
-    "stargazers_count": 759,
+    "stargazers_count": 795,
     "open_issues_count": 5,
-    "forks_count": 56
+    "forks_count": 61
   },
   {
     "full_name": "AhmedElTabarani/hadith-checker-extension",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 68798,
-    "open_issues_count": 46,
-    "forks_count": 7708
+    "stargazers_count": 68871,
+    "open_issues_count": 45,
+    "forks_count": 7716
   },
   {
     "full_name": "adelpro/nextjs-view-transitions",
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1879,
+    "stargazers_count": 1881,
     "open_issues_count": 23,
     "forks_count": 178
   },
   {
     "full_name": "osamayy/azkar-db",
-    "stargazers_count": 159,
+    "stargazers_count": 161,
     "open_issues_count": 1,
     "forks_count": 56
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "Seen-Arabic/Morning-And-Evening-Adhkar-DB",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 26102,
-    "open_issues_count": 150,
-    "forks_count": 1498
+    "stargazers_count": 26289,
+    "open_issues_count": 156,
+    "forks_count": 1512
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 10846,
-    "open_issues_count": 89,
-    "forks_count": 571
+    "stargazers_count": 10904,
+    "open_issues_count": 92,
+    "forks_count": 577
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -139,13 +145,13 @@
   },
   {
     "full_name": "tarekeldeeb/quran-madina-html",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 2012,
+    "stargazers_count": 2021,
     "open_issues_count": 19,
     "forks_count": 61
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13656,
+    "stargazers_count": 13677,
     "open_issues_count": 133,
-    "forks_count": 1500
-  },
-  {
-    "full_name": "s0md3v/roop",
-    "stargazers_count": 28966,
-    "open_issues_count": 6,
-    "forks_count": 7127
+    "forks_count": 1501
   }
 ]
