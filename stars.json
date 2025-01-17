@@ -1,15 +1,15 @@
 [
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 4062,
-    "open_issues_count": 202,
-    "forks_count": 1976
+    "stargazers_count": 4072,
+    "open_issues_count": 116,
+    "forks_count": 1980
   },
   {
     "full_name": "vernu/vps-audit",
-    "stargazers_count": 795,
+    "stargazers_count": 811,
     "open_issues_count": 5,
-    "forks_count": 61
+    "forks_count": 65
   },
   {
     "full_name": "AhmedElTabarani/hadith-checker-extension",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 68871,
-    "open_issues_count": 45,
-    "forks_count": 7716
+    "stargazers_count": 68940,
+    "open_issues_count": 51,
+    "forks_count": 7719
   },
   {
     "full_name": "adelpro/nextjs-view-transitions",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "adelpro/open-mushaf-native",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1881,
+    "stargazers_count": 1882,
     "open_issues_count": 23,
     "forks_count": 178
   },
   {
     "full_name": "osamayy/azkar-db",
-    "stargazers_count": 161,
+    "stargazers_count": 163,
     "open_issues_count": 1,
     "forks_count": 56
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 26289,
-    "open_issues_count": 156,
-    "forks_count": 1512
+    "stargazers_count": 26411,
+    "open_issues_count": 142,
+    "forks_count": 1518
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 10904,
-    "open_issues_count": 92,
-    "forks_count": 577
+    "stargazers_count": 11004,
+    "open_issues_count": 91,
+    "forks_count": 582
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "muslimpack/Quran",
-    "stargazers_count": 24,
+    "stargazers_count": 26,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 2021,
+    "stargazers_count": 2034,
     "open_issues_count": 19,
     "forks_count": 61
   },
@@ -159,13 +159,13 @@
     "full_name": "mguay22/shoppy-ui",
     "stargazers_count": 16,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "mguay22/shoppy-backend",
     "stargazers_count": 14,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "ahmedmusawir/starter-next13-pages-ts-v3",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 13677,
-    "open_issues_count": 133,
-    "forks_count": 1501
+    "stargazers_count": 13686,
+    "open_issues_count": 134,
+    "forks_count": 1502
   }
 ]
