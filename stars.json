@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "hyperknot/openfreemap",
+    "stargazers_count": 3178,
+    "open_issues_count": 16,
+    "forks_count": 72
+  },
+  {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 15820,
-    "open_issues_count": 43,
-    "forks_count": 840
+    "stargazers_count": 31870,
+    "open_issues_count": 79,
+    "forks_count": 2887
   },
   {
     "full_name": "fosrl/pangolin",
-    "stargazers_count": 1443,
-    "open_issues_count": 9,
-    "forks_count": 50
+    "stargazers_count": 1516,
+    "open_issues_count": 8,
+    "forks_count": 55
   },
   {
     "full_name": "anisurrahman072/React-Native-Advanced-Guide",
-    "stargazers_count": 2084,
+    "stargazers_count": 2093,
     "open_issues_count": 7,
     "forks_count": 213
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 4082,
-    "open_issues_count": 84,
-    "forks_count": 1991
+    "stargazers_count": 4097,
+    "open_issues_count": 79,
+    "forks_count": 1994
   },
   {
     "full_name": "vernu/vps-audit",
-    "stargazers_count": 831,
+    "stargazers_count": 843,
     "open_issues_count": 4,
-    "forks_count": 66
+    "forks_count": 68
   },
   {
     "full_name": "AhmedElTabarani/hadith-checker-extension",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 69064,
-    "open_issues_count": 49,
-    "forks_count": 7729
+    "stargazers_count": 69118,
+    "open_issues_count": 48,
+    "forks_count": 7728
   },
   {
     "full_name": "adelpro/nextjs-view-transitions",
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1884,
+    "stargazers_count": 1885,
     "open_issues_count": 23,
     "forks_count": 178
   },
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "muslimpack/HisnElmoslem_App",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 0,
     "forks_count": 51
   },
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 26637,
+    "stargazers_count": 26865,
     "open_issues_count": 136,
-    "forks_count": 1537
+    "forks_count": 1550
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 14964,
-    "open_issues_count": 97,
-    "forks_count": 763
+    "stargazers_count": 15507,
+    "open_issues_count": 91,
+    "forks_count": 791
   },
   {
     "full_name": "Mohamed-Nagdy/Quran-App-Data",
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "muslimpack/Quran",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "shuding/next-view-transitions",
-    "stargazers_count": 2058,
+    "stargazers_count": 2069,
     "open_issues_count": 19,
     "forks_count": 63
-  },
-  {
-    "full_name": "mguay22/shoppy-ui",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 4
   }
 ]
