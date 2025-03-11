@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "adelpro/open-quran",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "imgly/background-removal-js",
-    "stargazers_count": 6286,
+    "stargazers_count": 6327,
     "open_issues_count": 61,
-    "forks_count": 394
+    "forks_count": 397
   },
   {
     "full_name": "vinceanalytics/vince",
-    "stargazers_count": 1555,
+    "stargazers_count": 1563,
     "open_issues_count": 7,
     "forks_count": 52
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 41170,
-    "open_issues_count": 8,
-    "forks_count": 926
+    "stargazers_count": 41164,
+    "open_issues_count": 9,
+    "forks_count": 931
   },
   {
     "full_name": "sanjayc208/react-fox-toast",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "containers/ramalama",
-    "stargazers_count": 1310,
-    "open_issues_count": 66,
-    "forks_count": 131
+    "stargazers_count": 1328,
+    "open_issues_count": 67,
+    "forks_count": 132
   },
   {
     "full_name": "streamich/react-embed",
@@ -37,51 +43,51 @@
   },
   {
     "full_name": "hyperknot/openfreemap",
-    "stargazers_count": 3340,
+    "stargazers_count": 3348,
     "open_issues_count": 18,
     "forks_count": 77
   },
   {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 85259,
-    "open_issues_count": 315,
-    "forks_count": 11000
+    "stargazers_count": 85808,
+    "open_issues_count": 325,
+    "forks_count": 11079
   },
   {
     "full_name": "fosrl/pangolin",
-    "stargazers_count": 3611,
-    "open_issues_count": 19,
+    "stargazers_count": 3779,
+    "open_issues_count": 15,
     "forks_count": 86
   },
   {
     "full_name": "anisurrahman072/React-Native-Advanced-Guide",
-    "stargazers_count": 2158,
+    "stargazers_count": 2165,
     "open_issues_count": 7,
-    "forks_count": 225
+    "forks_count": 226
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 4206,
-    "open_issues_count": 91,
-    "forks_count": 2027
+    "stargazers_count": 4220,
+    "open_issues_count": 94,
+    "forks_count": 2032
   },
   {
     "full_name": "vernu/vps-audit",
-    "stargazers_count": 1187,
+    "stargazers_count": 1198,
     "open_issues_count": 4,
     "forks_count": 91
   },
   {
     "full_name": "AhmedElTabarani/hadith-checker-extension",
-    "stargazers_count": 58,
+    "stargazers_count": 57,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 69717,
-    "open_issues_count": 51,
-    "forks_count": 7777
+    "stargazers_count": 69770,
+    "open_issues_count": 60,
+    "forks_count": 7780
   },
   {
     "full_name": "adelpro/nextjs-view-transitions",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "quran/ayah-detection",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 4,
     "forks_count": 43
   },
@@ -163,19 +169,13 @@
   },
   {
     "full_name": "muslimpack/HisnElmoslem_App",
-    "stargazers_count": 196,
+    "stargazers_count": 197,
     "open_issues_count": 0,
     "forks_count": 51
   },
   {
     "full_name": "Seen-Arabic/Morning-And-Evening-Adhkar-DB",
     "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "adelpro/nextpalestine",
-    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   }
