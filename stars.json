@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "deepseek-ai/DeepSeek-V3",
+    "stargazers_count": 94329,
+    "open_issues_count": 139,
+    "forks_count": 15255
+  },
+  {
     "full_name": "Trae-AI/Trae",
-    "stargazers_count": 389,
-    "open_issues_count": 598,
-    "forks_count": 13
+    "stargazers_count": 408,
+    "open_issues_count": 642,
+    "forks_count": 14
   },
   {
     "full_name": "smoqadam/url-to-qrcode-firefox-addon",
@@ -19,21 +25,21 @@
   },
   {
     "full_name": "imgly/background-removal-js",
-    "stargazers_count": 6379,
+    "stargazers_count": 6385,
     "open_issues_count": 59,
     "forks_count": 402
   },
   {
     "full_name": "vinceanalytics/vince",
-    "stargazers_count": 1576,
-    "open_issues_count": 5,
+    "stargazers_count": 1581,
+    "open_issues_count": 8,
     "forks_count": 52
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 41144,
+    "stargazers_count": 41120,
     "open_issues_count": 8,
-    "forks_count": 934
+    "forks_count": 935
   },
   {
     "full_name": "sanjayc208/react-fox-toast",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "containers/ramalama",
-    "stargazers_count": 1415,
+    "stargazers_count": 1434,
     "open_issues_count": 70,
-    "forks_count": 135
+    "forks_count": 136
   },
   {
     "full_name": "streamich/react-embed",
@@ -55,33 +61,33 @@
   },
   {
     "full_name": "hyperknot/openfreemap",
-    "stargazers_count": 3396,
-    "open_issues_count": 19,
-    "forks_count": 78
+    "stargazers_count": 3403,
+    "open_issues_count": 18,
+    "forks_count": 79
   },
   {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 87342,
-    "open_issues_count": 325,
-    "forks_count": 11278
+    "stargazers_count": 87641,
+    "open_issues_count": 330,
+    "forks_count": 11317
   },
   {
     "full_name": "fosrl/pangolin",
-    "stargazers_count": 4309,
-    "open_issues_count": 27,
-    "forks_count": 104
+    "stargazers_count": 4444,
+    "open_issues_count": 30,
+    "forks_count": 103
   },
   {
     "full_name": "anisurrahman072/React-Native-Advanced-Guide",
-    "stargazers_count": 2181,
+    "stargazers_count": 2184,
     "open_issues_count": 7,
     "forks_count": 228
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 4244,
-    "open_issues_count": 102,
-    "forks_count": 2036
+    "stargazers_count": 4255,
+    "open_issues_count": 103,
+    "forks_count": 2041
   },
   {
     "full_name": "vernu/vps-audit",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 70026,
-    "open_issues_count": 66,
-    "forks_count": 7797
+    "stargazers_count": 70138,
+    "open_issues_count": 52,
+    "forks_count": 7807
   },
   {
     "full_name": "adelpro/nextjs-view-transitions",
@@ -134,7 +140,7 @@
   {
     "full_name": "adelpro/open-mushaf-native",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "rayed/Quran",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 0,
     "forks_count": 35
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "produck/svg-captcha",
-    "stargazers_count": 1893,
+    "stargazers_count": 1895,
     "open_issues_count": 23,
     "forks_count": 178
-  },
-  {
-    "full_name": "osamayy/azkar-db",
-    "stargazers_count": 166,
-    "open_issues_count": 1,
-    "forks_count": 57
   }
 ]
