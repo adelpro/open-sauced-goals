@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "bytedance/Dolphin",
+    "stargazers_count": 1996,
+    "open_issues_count": 25,
+    "forks_count": 126
+  },
+  {
+    "full_name": "adityachandelgit/BookLore",
+    "stargazers_count": 1150,
+    "open_issues_count": 68,
+    "forks_count": 31
+  },
+  {
     "full_name": "shuding/liquid-glass",
-    "stargazers_count": 485,
-    "open_issues_count": 1,
-    "forks_count": 15
+    "stargazers_count": 523,
+    "open_issues_count": 3,
+    "forks_count": 18
   },
   {
     "full_name": "projectislam/quran-audio",
@@ -13,9 +25,9 @@
   },
   {
     "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
-    "stargazers_count": 13536,
-    "open_issues_count": 71,
-    "forks_count": 2105
+    "stargazers_count": 13945,
+    "open_issues_count": 19,
+    "forks_count": 2192
   },
   {
     "full_name": "fekracomputers/HadithEncyclopediaMobile",
@@ -25,57 +37,57 @@
   },
   {
     "full_name": "bryanswkim/Chain-of-Zoom",
-    "stargazers_count": 605,
-    "open_issues_count": 13,
-    "forks_count": 58
+    "stargazers_count": 617,
+    "open_issues_count": 15,
+    "forks_count": 60
   },
   {
     "full_name": "rybbit-io/rybbit",
-    "stargazers_count": 6765,
+    "stargazers_count": 6819,
     "open_issues_count": 40,
-    "forks_count": 247
+    "forks_count": 251
   },
   {
     "full_name": "google-ai-edge/gallery",
-    "stargazers_count": 11176,
-    "open_issues_count": 101,
-    "forks_count": 767
+    "stargazers_count": 11375,
+    "open_issues_count": 109,
+    "forks_count": 797
   },
   {
     "full_name": "Fosowl/agenticSeek",
-    "stargazers_count": 18428,
+    "stargazers_count": 18857,
     "open_issues_count": 21,
-    "forks_count": 1797
+    "forks_count": 1829
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 10626,
-    "open_issues_count": 613,
-    "forks_count": 601
+    "stargazers_count": 10641,
+    "open_issues_count": 616,
+    "forks_count": 602
   },
   {
     "full_name": "mem0ai/mem0",
-    "stargazers_count": 34639,
-    "open_issues_count": 452,
-    "forks_count": 3453
+    "stargazers_count": 34905,
+    "open_issues_count": 458,
+    "forks_count": 3486
   },
   {
     "full_name": "nestjs/swagger",
-    "stargazers_count": 1796,
+    "stargazers_count": 1798,
     "open_issues_count": 47,
     "forks_count": 505
   },
   {
     "full_name": "mariopartyrd/marioparty4",
-    "stargazers_count": 518,
-    "open_issues_count": 2,
+    "stargazers_count": 522,
+    "open_issues_count": 1,
     "forks_count": 28
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 71044,
-    "open_issues_count": 102,
-    "forks_count": 10135
+    "stargazers_count": 71148,
+    "open_issues_count": 105,
+    "forks_count": 10157
   },
   {
     "full_name": "66julienmartin/MCP-server-Qwen_Max",
@@ -85,8 +97,8 @@
   },
   {
     "full_name": "TechForPalestine/palestine-datasets",
-    "stargazers_count": 281,
-    "open_issues_count": 0,
+    "stargazers_count": 284,
+    "open_issues_count": 1,
     "forks_count": 29
   },
   {
@@ -103,21 +115,21 @@
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 15852,
+    "stargazers_count": 16088,
     "open_issues_count": 132,
-    "forks_count": 1095
+    "forks_count": 1121
   },
   {
     "full_name": "upstash/context7",
-    "stargazers_count": 12912,
-    "open_issues_count": 43,
-    "forks_count": 672
+    "stargazers_count": 13569,
+    "open_issues_count": 50,
+    "forks_count": 707
   },
   {
     "full_name": "anthropics/courses",
-    "stargazers_count": 15430,
-    "open_issues_count": 56,
-    "forks_count": 1316
+    "stargazers_count": 15613,
+    "open_issues_count": 57,
+    "forks_count": 1337
   },
   {
     "full_name": "bllfoad/ayahai",
@@ -127,27 +139,27 @@
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 5610,
-    "open_issues_count": 46,
-    "forks_count": 457
+    "stargazers_count": 5973,
+    "open_issues_count": 49,
+    "forks_count": 491
   },
   {
     "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 2587,
-    "open_issues_count": 13,
+    "stargazers_count": 2593,
+    "open_issues_count": 7,
     "forks_count": 51
   },
   {
     "full_name": "software-mansion/react-native-executorch",
-    "stargazers_count": 783,
-    "open_issues_count": 43,
+    "stargazers_count": 788,
+    "open_issues_count": 39,
     "forks_count": 37
   },
   {
     "full_name": "OmniSVG/OmniSVG",
-    "stargazers_count": 1781,
+    "stargazers_count": 1786,
     "open_issues_count": 12,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "OmarJ9/recipo",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 97639,
-    "open_issues_count": 76,
-    "forks_count": 15879
-  },
-  {
-    "full_name": "Trae-AI/Trae",
-    "stargazers_count": 591,
-    "open_issues_count": 149,
-    "forks_count": 24
-  },
-  {
-    "full_name": "smoqadam/url-to-qrcode-firefox-addon",
-    "stargazers_count": 67,
-    "open_issues_count": 5,
-    "forks_count": 15
+    "stargazers_count": 97706,
+    "open_issues_count": 83,
+    "forks_count": 15892
   }
 ]
