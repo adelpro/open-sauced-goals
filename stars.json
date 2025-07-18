@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "jhonatanmacazana/gun-relay",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "permissionlesstech/bitchat",
-    "stargazers_count": 17522,
-    "open_issues_count": 155,
-    "forks_count": 1525
+    "stargazers_count": 18241,
+    "open_issues_count": 154,
+    "forks_count": 1608
   },
   {
     "full_name": "meliorence/react-native-render-html",
-    "stargazers_count": 3572,
+    "stargazers_count": 3575,
     "open_issues_count": 76,
-    "forks_count": 620
+    "forks_count": 618
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 12064,
-    "open_issues_count": 107,
-    "forks_count": 284
+    "stargazers_count": 12071,
+    "open_issues_count": 109,
+    "forks_count": 286
   },
   {
     "full_name": "AirenSoft/OvenPlayer",
     "stargazers_count": 553,
-    "open_issues_count": 37,
-    "forks_count": 129
+    "open_issues_count": 36,
+    "forks_count": 130
   },
   {
     "full_name": "antvis/mcp-server-chart",
-    "stargazers_count": 1915,
-    "open_issues_count": 22,
-    "forks_count": 178
+    "stargazers_count": 1979,
+    "open_issues_count": 24,
+    "forks_count": 183
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 4250,
+    "stargazers_count": 4302,
     "open_issues_count": 32,
-    "forks_count": 325
+    "forks_count": 330
   },
   {
     "full_name": "adityachandelgit/BookLore",
-    "stargazers_count": 3022,
-    "open_issues_count": 89,
-    "forks_count": 145
+    "stargazers_count": 3099,
+    "open_issues_count": 101,
+    "forks_count": 150
   },
   {
     "full_name": "shuding/liquid-glass",
-    "stargazers_count": 637,
+    "stargazers_count": 642,
     "open_issues_count": 3,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "projectislam/quran-audio",
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
-    "stargazers_count": 15581,
-    "open_issues_count": 32,
-    "forks_count": 2572
+    "stargazers_count": 15676,
+    "open_issues_count": 35,
+    "forks_count": 2590
   },
   {
     "full_name": "fekracomputers/HadithEncyclopediaMobile",
@@ -67,44 +73,44 @@
   },
   {
     "full_name": "bryanswkim/Chain-of-Zoom",
-    "stargazers_count": 696,
+    "stargazers_count": 698,
     "open_issues_count": 14,
     "forks_count": 72
   },
   {
     "full_name": "rybbit-io/rybbit",
-    "stargazers_count": 7443,
-    "open_issues_count": 52,
-    "forks_count": 296
+    "stargazers_count": 7514,
+    "open_issues_count": 51,
+    "forks_count": 301
   },
   {
     "full_name": "google-ai-edge/gallery",
-    "stargazers_count": 12561,
-    "open_issues_count": 112,
-    "forks_count": 927
+    "stargazers_count": 12631,
+    "open_issues_count": 116,
+    "forks_count": 943
   },
   {
     "full_name": "Fosowl/agenticSeek",
-    "stargazers_count": 20045,
-    "open_issues_count": 25,
-    "forks_count": 1984
+    "stargazers_count": 20133,
+    "open_issues_count": 27,
+    "forks_count": 1995
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 10722,
-    "open_issues_count": 630,
-    "forks_count": 608
+    "stargazers_count": 10729,
+    "open_issues_count": 628,
+    "forks_count": 609
   },
   {
     "full_name": "mem0ai/mem0",
-    "stargazers_count": 36792,
-    "open_issues_count": 499,
-    "forks_count": 3763
+    "stargazers_count": 36975,
+    "open_issues_count": 514,
+    "forks_count": 3795
   },
   {
     "full_name": "nestjs/swagger",
-    "stargazers_count": 1800,
-    "open_issues_count": 49,
+    "stargazers_count": 1798,
+    "open_issues_count": 50,
     "forks_count": 506
   },
   {
@@ -115,14 +121,14 @@
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 71759,
-    "open_issues_count": 94,
-    "forks_count": 10292
+    "stargazers_count": 71827,
+    "open_issues_count": 93,
+    "forks_count": 10304
   },
   {
     "full_name": "66julienmartin/MCP-server-Qwen_Max",
     "stargazers_count": 21,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 6
   },
   {
@@ -145,21 +151,21 @@
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 17355,
-    "open_issues_count": 167,
-    "forks_count": 1337
+    "stargazers_count": 17479,
+    "open_issues_count": 170,
+    "forks_count": 1364
   },
   {
     "full_name": "upstash/context7",
-    "stargazers_count": 20015,
+    "stargazers_count": 20645,
     "open_issues_count": 61,
-    "forks_count": 1027
+    "forks_count": 1059
   },
   {
     "full_name": "anthropics/courses",
-    "stargazers_count": 16506,
+    "stargazers_count": 16529,
     "open_issues_count": 62,
-    "forks_count": 1454
+    "forks_count": 1457
   },
   {
     "full_name": "bllfoad/ayahai",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "aaPanel/BillionMail",
-    "stargazers_count": 6669,
-    "open_issues_count": 83,
-    "forks_count": 572
-  },
-  {
-    "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 2626,
-    "open_issues_count": 8,
-    "forks_count": 51
+    "stargazers_count": 6693,
+    "open_issues_count": 86,
+    "forks_count": 576
   }
 ]
