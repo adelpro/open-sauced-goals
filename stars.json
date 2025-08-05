@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "bepass-org/oblivion-desktop",
+    "stargazers_count": 7727,
+    "open_issues_count": 4,
+    "forks_count": 890
+  },
+  {
     "full_name": "aculix/bitplay",
-    "stargazers_count": 1446,
+    "stargazers_count": 1455,
     "open_issues_count": 11,
     "forks_count": 85
   },
   {
     "full_name": "AhmedBaset/hadith-json",
-    "stargazers_count": 155,
+    "stargazers_count": 157,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "BlackHatDevX/openspot-music-app",
-    "stargazers_count": 797,
+    "stargazers_count": 803,
     "open_issues_count": 3,
-    "forks_count": 63
+    "forks_count": 65
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 6617,
-    "open_issues_count": 102,
-    "forks_count": 485
+    "stargazers_count": 7279,
+    "open_issues_count": 121,
+    "forks_count": 551
   },
   {
     "full_name": "adelpro/open-tarteel",
@@ -37,51 +43,51 @@
   },
   {
     "full_name": "permissionlesstech/bitchat",
-    "stargazers_count": 20570,
-    "open_issues_count": 180,
-    "forks_count": 1836
+    "stargazers_count": 20931,
+    "open_issues_count": 196,
+    "forks_count": 1877
   },
   {
     "full_name": "meliorence/react-native-render-html",
     "stargazers_count": 3579,
     "open_issues_count": 77,
-    "forks_count": 621
+    "forks_count": 622
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 12159,
-    "open_issues_count": 109,
-    "forks_count": 288
+    "stargazers_count": 12180,
+    "open_issues_count": 110,
+    "forks_count": 290
   },
   {
     "full_name": "AirenSoft/OvenPlayer",
-    "stargazers_count": 552,
+    "stargazers_count": 553,
     "open_issues_count": 35,
     "forks_count": 130
   },
   {
     "full_name": "antvis/mcp-server-chart",
-    "stargazers_count": 2234,
-    "open_issues_count": 17,
-    "forks_count": 204
+    "stargazers_count": 2281,
+    "open_issues_count": 19,
+    "forks_count": 211
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 4442,
+    "stargazers_count": 4469,
     "open_issues_count": 40,
-    "forks_count": 350
+    "forks_count": 352
   },
   {
     "full_name": "booklore-app/BookLore",
-    "stargazers_count": 3552,
-    "open_issues_count": 120,
-    "forks_count": 173
+    "stargazers_count": 3711,
+    "open_issues_count": 130,
+    "forks_count": 182
   },
   {
     "full_name": "shuding/liquid-glass",
-    "stargazers_count": 687,
+    "stargazers_count": 690,
     "open_issues_count": 3,
-    "forks_count": 34
+    "forks_count": 37
   },
   {
     "full_name": "projectislam/quran-audio",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
-    "stargazers_count": 16005,
+    "stargazers_count": 16101,
     "open_issues_count": 40,
-    "forks_count": 2653
+    "forks_count": 2668
   },
   {
     "full_name": "fekracomputers/HadithEncyclopediaMobile",
@@ -103,57 +109,57 @@
   },
   {
     "full_name": "bryanswkim/Chain-of-Zoom",
-    "stargazers_count": 706,
+    "stargazers_count": 709,
     "open_issues_count": 14,
     "forks_count": 73
   },
   {
     "full_name": "rybbit-io/rybbit",
-    "stargazers_count": 7651,
-    "open_issues_count": 65,
-    "forks_count": 313
+    "stargazers_count": 7709,
+    "open_issues_count": 63,
+    "forks_count": 314
   },
   {
     "full_name": "google-ai-edge/gallery",
-    "stargazers_count": 12938,
-    "open_issues_count": 129,
-    "forks_count": 987
+    "stargazers_count": 13004,
+    "open_issues_count": 131,
+    "forks_count": 1000
   },
   {
     "full_name": "Fosowl/agenticSeek",
-    "stargazers_count": 20511,
-    "open_issues_count": 31,
-    "forks_count": 2044
+    "stargazers_count": 20590,
+    "open_issues_count": 33,
+    "forks_count": 2066
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 11046,
-    "open_issues_count": 642,
+    "stargazers_count": 11055,
+    "open_issues_count": 647,
     "forks_count": 609
   },
   {
     "full_name": "mem0ai/mem0",
-    "stargazers_count": 37626,
-    "open_issues_count": 557,
-    "forks_count": 3889
+    "stargazers_count": 37788,
+    "open_issues_count": 552,
+    "forks_count": 3917
   },
   {
     "full_name": "nestjs/swagger",
-    "stargazers_count": 1799,
+    "stargazers_count": 1800,
     "open_issues_count": 51,
-    "forks_count": 507
+    "forks_count": 509
   },
   {
     "full_name": "mariopartyrd/marioparty4",
-    "stargazers_count": 549,
+    "stargazers_count": 552,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 72182,
+    "stargazers_count": 72278,
     "open_issues_count": 82,
-    "forks_count": 10388
+    "forks_count": 10412
   },
   {
     "full_name": "66julienmartin/MCP-server-Qwen_Max",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "TechForPalestine/palestine-datasets",
-    "stargazers_count": 304,
+    "stargazers_count": 305,
     "open_issues_count": 0,
     "forks_count": 30
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 259,
     "open_issues_count": 7,
     "forks_count": 11
-  },
-  {
-    "full_name": "theWallProject/theWallAddon",
-    "stargazers_count": 65,
-    "open_issues_count": 18,
-    "forks_count": 7
   }
 ]
