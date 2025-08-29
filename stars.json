@@ -1,5 +1,59 @@
 [
   {
+    "full_name": "hotheadhacker/seedbox-lite",
+    "stargazers_count": 1888,
+    "open_issues_count": 12,
+    "forks_count": 122
+  },
+  {
+    "full_name": "mercurjs/mercur",
+    "stargazers_count": 688,
+    "open_issues_count": 33,
+    "forks_count": 152
+  },
+  {
+    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "stargazers_count": 79707,
+    "open_issues_count": 72,
+    "forks_count": 22317
+  },
+  {
+    "full_name": "NevaMind-AI/memU",
+    "stargazers_count": 1878,
+    "open_issues_count": 20,
+    "forks_count": 117
+  },
+  {
+    "full_name": "alwalxed/qafiyah",
+    "stargazers_count": 192,
+    "open_issues_count": 1,
+    "forks_count": 15
+  },
+  {
+    "full_name": "murtaza-nasir/maestro",
+    "stargazers_count": 967,
+    "open_issues_count": 11,
+    "forks_count": 81
+  },
+  {
+    "full_name": "mayneyao/eidos",
+    "stargazers_count": 2796,
+    "open_issues_count": 38,
+    "forks_count": 116
+  },
+  {
+    "full_name": "achex123/claude-task-master",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ghuntley/how-to-build-a-coding-agent",
+    "stargazers_count": 3045,
+    "open_issues_count": 2,
+    "forks_count": 341
+  },
+  {
     "full_name": "0xarchit/ArcArcGo",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,7 +61,7 @@
   },
   {
     "full_name": "sarim2000/pennywiseai-tracker",
-    "stargazers_count": 107,
+    "stargazers_count": 112,
     "open_issues_count": 8,
     "forks_count": 12
   },
@@ -19,21 +73,21 @@
   },
   {
     "full_name": "GermanCoding/SyncTrayzor",
-    "stargazers_count": 204,
-    "open_issues_count": 4,
+    "stargazers_count": 255,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "marsidev/react-turnstile",
-    "stargazers_count": 627,
+    "stargazers_count": 629,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "openlaunch-org/Open-Launch",
-    "stargazers_count": 211,
+    "stargazers_count": 213,
     "open_issues_count": 2,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "SendWithSES/Drag-and-Drop-Email-Designer",
@@ -43,21 +97,21 @@
   },
   {
     "full_name": "eds2002/react-native-screen-transitions",
-    "stargazers_count": 609,
+    "stargazers_count": 619,
     "open_issues_count": 1,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "bepass-org/oblivion-desktop",
-    "stargazers_count": 7946,
-    "open_issues_count": 12,
+    "stargazers_count": 7958,
+    "open_issues_count": 9,
     "forks_count": 922
   },
   {
     "full_name": "aculix/bitplay",
-    "stargazers_count": 1484,
+    "stargazers_count": 1488,
     "open_issues_count": 12,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "AhmedBaset/hadith-json",
@@ -67,15 +121,15 @@
   },
   {
     "full_name": "BlackHatDevX/openspot-music-app",
-    "stargazers_count": 836,
+    "stargazers_count": 841,
     "open_issues_count": 4,
     "forks_count": 68
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 11427,
-    "open_issues_count": 241,
-    "forks_count": 826
+    "stargazers_count": 11679,
+    "open_issues_count": 246,
+    "forks_count": 851
   },
   {
     "full_name": "adelpro/open-tarteel",
@@ -91,92 +145,38 @@
   },
   {
     "full_name": "permissionlesstech/bitchat",
-    "stargazers_count": 22002,
-    "open_issues_count": 164,
-    "forks_count": 1994
+    "stargazers_count": 22079,
+    "open_issues_count": 172,
+    "forks_count": 2002
   },
   {
     "full_name": "meliorence/react-native-render-html",
-    "stargazers_count": 3589,
+    "stargazers_count": 3591,
     "open_issues_count": 77,
     "forks_count": 623
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 12311,
-    "open_issues_count": 111,
+    "stargazers_count": 12323,
+    "open_issues_count": 110,
     "forks_count": 297
   },
   {
     "full_name": "antvis/mcp-server-chart",
-    "stargazers_count": 2583,
-    "open_issues_count": 19,
-    "forks_count": 236
+    "stargazers_count": 2613,
+    "open_issues_count": 20,
+    "forks_count": 239
   },
   {
     "full_name": "bytedance/Dolphin",
-    "stargazers_count": 5621,
-    "open_issues_count": 55,
-    "forks_count": 449
+    "stargazers_count": 5704,
+    "open_issues_count": 56,
+    "forks_count": 453
   },
   {
     "full_name": "booklore-app/booklore",
-    "stargazers_count": 4152,
-    "open_issues_count": 171,
-    "forks_count": 203
-  },
-  {
-    "full_name": "shuding/liquid-glass",
-    "stargazers_count": 734,
-    "open_issues_count": 3,
-    "forks_count": 37
-  },
-  {
-    "full_name": "projectislam/quran-audio",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
-    "stargazers_count": 16539,
-    "open_issues_count": 45,
-    "forks_count": 2772
-  },
-  {
-    "full_name": "fekracomputers/HadithEncyclopediaMobile",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "bryanswkim/Chain-of-Zoom",
-    "stargazers_count": 718,
-    "open_issues_count": 15,
-    "forks_count": 74
-  },
-  {
-    "full_name": "rybbit-io/rybbit",
-    "stargazers_count": 7875,
-    "open_issues_count": 70,
-    "forks_count": 328
-  },
-  {
-    "full_name": "google-ai-edge/gallery",
-    "stargazers_count": 13430,
-    "open_issues_count": 133,
-    "forks_count": 1071
-  },
-  {
-    "full_name": "Fosowl/agenticSeek",
-    "stargazers_count": 21355,
-    "open_issues_count": 37,
-    "forks_count": 2204
-  },
-  {
-    "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 11248,
-    "open_issues_count": 660,
-    "forks_count": 614
+    "stargazers_count": 4207,
+    "open_issues_count": 180,
+    "forks_count": 210
   }
 ]
