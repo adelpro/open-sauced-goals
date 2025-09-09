@@ -1,39 +1,45 @@
 [
   {
+    "full_name": "VrandaaGarg/SmartBite",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "OpenBMB/MiniCPM-V",
-    "stargazers_count": 21231,
-    "open_issues_count": 84,
-    "forks_count": 1565
+    "stargazers_count": 21511,
+    "open_issues_count": 87,
+    "forks_count": 1598
   },
   {
     "full_name": "Scriptbash/Wispar",
-    "stargazers_count": 79,
-    "open_issues_count": 8,
+    "stargazers_count": 80,
+    "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "hotheadhacker/seedbox-lite",
-    "stargazers_count": 3035,
-    "open_issues_count": 21,
-    "forks_count": 198
+    "stargazers_count": 3070,
+    "open_issues_count": 23,
+    "forks_count": 204
   },
   {
     "full_name": "mercurjs/mercur",
-    "stargazers_count": 1022,
-    "open_issues_count": 34,
-    "forks_count": 186
+    "stargazers_count": 1088,
+    "open_issues_count": 39,
+    "forks_count": 198
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 80738,
-    "open_issues_count": 74,
-    "forks_count": 22552
+    "stargazers_count": 82008,
+    "open_issues_count": 70,
+    "forks_count": 22833
   },
   {
     "full_name": "NevaMind-AI/memU",
-    "stargazers_count": 2021,
-    "open_issues_count": 20,
-    "forks_count": 126
+    "stargazers_count": 2089,
+    "open_issues_count": 22,
+    "forks_count": 127
   },
   {
     "full_name": "alwalxed/qafiyah",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "murtaza-nasir/maestro",
-    "stargazers_count": 1158,
+    "stargazers_count": 1175,
     "open_issues_count": 13,
-    "forks_count": 100
+    "forks_count": 102
   },
   {
     "full_name": "mayneyao/eidos",
-    "stargazers_count": 2894,
-    "open_issues_count": 37,
-    "forks_count": 125
+    "stargazers_count": 2903,
+    "open_issues_count": 38,
+    "forks_count": 126
   },
   {
     "full_name": "achex123/claude-task-master",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "ghuntley/how-to-build-a-coding-agent",
-    "stargazers_count": 3343,
+    "stargazers_count": 3359,
     "open_issues_count": 3,
-    "forks_count": 376
+    "forks_count": 378
   },
   {
     "full_name": "0xarchit/ArcArcGo",
@@ -73,57 +79,57 @@
   },
   {
     "full_name": "sarim2000/pennywiseai-tracker",
-    "stargazers_count": 121,
-    "open_issues_count": 8,
+    "stargazers_count": 129,
+    "open_issues_count": 13,
     "forks_count": 12
   },
   {
     "full_name": "productdevbook/nitroping",
-    "stargazers_count": 220,
-    "open_issues_count": 13,
+    "stargazers_count": 222,
+    "open_issues_count": 14,
     "forks_count": 15
   },
   {
     "full_name": "GermanCoding/SyncTrayzor",
-    "stargazers_count": 321,
-    "open_issues_count": 14,
-    "forks_count": 5
+    "stargazers_count": 363,
+    "open_issues_count": 4,
+    "forks_count": 6
   },
   {
     "full_name": "marsidev/react-turnstile",
-    "stargazers_count": 634,
-    "open_issues_count": 1,
+    "stargazers_count": 635,
+    "open_issues_count": 0,
     "forks_count": 35
   },
   {
     "full_name": "openlaunch-org/Open-Launch",
     "stargazers_count": 216,
     "open_issues_count": 2,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "SendWithSES/Drag-and-Drop-Email-Designer",
-    "stargazers_count": 1937,
+    "stargazers_count": 1938,
     "open_issues_count": 2,
     "forks_count": 114
   },
   {
     "full_name": "eds2002/react-native-screen-transitions",
-    "stargazers_count": 631,
-    "open_issues_count": 2,
-    "forks_count": 20
+    "stargazers_count": 645,
+    "open_issues_count": 3,
+    "forks_count": 21
   },
   {
     "full_name": "bepass-org/oblivion-desktop",
-    "stargazers_count": 7991,
-    "open_issues_count": 13,
-    "forks_count": 924
+    "stargazers_count": 8010,
+    "open_issues_count": 8,
+    "forks_count": 928
   },
   {
     "full_name": "aculix/bitplay",
-    "stargazers_count": 1505,
+    "stargazers_count": 1519,
     "open_issues_count": 12,
-    "forks_count": 90
+    "forks_count": 95
   },
   {
     "full_name": "AhmedBaset/hadith-json",
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "BlackHatDevX/openspot-music-app",
-    "stargazers_count": 851,
+    "stargazers_count": 857,
     "open_issues_count": 5,
     "forks_count": 68
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 12115,
-    "open_issues_count": 278,
-    "forks_count": 894
+    "stargazers_count": 12400,
+    "open_issues_count": 288,
+    "forks_count": 926
   },
   {
     "full_name": "adelpro/open-tarteel",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "permissionlesstech/bitchat",
-    "stargazers_count": 22212,
-    "open_issues_count": 178,
-    "forks_count": 2017
+    "stargazers_count": 22288,
+    "open_issues_count": 179,
+    "forks_count": 2023
   },
   {
     "full_name": "meliorence/react-native-render-html",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 12350,
+    "stargazers_count": 12360,
     "open_issues_count": 110,
     "forks_count": 297
-  },
-  {
-    "full_name": "antvis/mcp-server-chart",
-    "stargazers_count": 2672,
-    "open_issues_count": 18,
-    "forks_count": 247
   }
 ]
