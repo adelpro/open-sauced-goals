@@ -1,21 +1,39 @@
 [
   {
+    "full_name": "Aditya987456/Second-brain-app",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Itqan-community/quran-apps-directory",
+    "stargazers_count": 13,
+    "open_issues_count": 27,
+    "forks_count": 2
+  },
+  {
+    "full_name": "bllfoad/ayahai-web",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hexdocom/lemonai",
+    "stargazers_count": 905,
+    "open_issues_count": 14,
+    "forks_count": 138
+  },
+  {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 13834,
-    "open_issues_count": 40,
-    "forks_count": 995
+    "stargazers_count": 14627,
+    "open_issues_count": 45,
+    "forks_count": 1059
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 7052,
-    "open_issues_count": 23,
-    "forks_count": 969
-  },
-  {
-    "full_name": "mwijanarko1/almurajaah_",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 7176,
+    "open_issues_count": 22,
+    "forks_count": 993
   },
   {
     "full_name": "aajafry/shaha",
@@ -25,13 +43,13 @@
   },
   {
     "full_name": "bradtraversy/prostore",
-    "stargazers_count": 289,
+    "stargazers_count": 290,
     "open_issues_count": 11,
-    "forks_count": 139
+    "forks_count": 141
   },
   {
     "full_name": "tesseral-labs/tesseral",
-    "stargazers_count": 1051,
+    "stargazers_count": 1052,
     "open_issues_count": 6,
     "forks_count": 44
   },
@@ -55,7 +73,7 @@
   },
   {
     "full_name": "OpenHealthForAll/open-health",
-    "stargazers_count": 3680,
+    "stargazers_count": 3685,
     "open_issues_count": 54,
     "forks_count": 398
   },
@@ -67,39 +85,39 @@
   },
   {
     "full_name": "OpenBMB/MiniCPM-V",
-    "stargazers_count": 21884,
-    "open_issues_count": 77,
-    "forks_count": 1635
+    "stargazers_count": 21977,
+    "open_issues_count": 79,
+    "forks_count": 1641
   },
   {
     "full_name": "Scriptbash/Wispar",
-    "stargazers_count": 93,
-    "open_issues_count": 7,
+    "stargazers_count": 96,
+    "open_issues_count": 9,
     "forks_count": 9
   },
   {
     "full_name": "hotheadhacker/seedbox-lite",
-    "stargazers_count": 3154,
-    "open_issues_count": 25,
-    "forks_count": 208
+    "stargazers_count": 3163,
+    "open_issues_count": 26,
+    "forks_count": 211
   },
   {
     "full_name": "mercurjs/mercur",
-    "stargazers_count": 1150,
-    "open_issues_count": 36,
-    "forks_count": 216
+    "stargazers_count": 1156,
+    "open_issues_count": 35,
+    "forks_count": 221
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 87409,
+    "stargazers_count": 87958,
     "open_issues_count": 77,
-    "forks_count": 23973
+    "forks_count": 24092
   },
   {
     "full_name": "NevaMind-AI/memU",
-    "stargazers_count": 2289,
-    "open_issues_count": 27,
-    "forks_count": 143
+    "stargazers_count": 2320,
+    "open_issues_count": 29,
+    "forks_count": 147
   },
   {
     "full_name": "alwalxed/qafiyah",
@@ -109,9 +127,9 @@
   },
   {
     "full_name": "murtaza-nasir/maestro",
-    "stargazers_count": 1196,
-    "open_issues_count": 12,
-    "forks_count": 103
+    "stargazers_count": 1249,
+    "open_issues_count": 7,
+    "forks_count": 106
   },
   {
     "full_name": "mayneyao/eidos",
@@ -127,9 +145,9 @@
   },
   {
     "full_name": "ghuntley/how-to-build-a-coding-agent",
-    "stargazers_count": 3402,
+    "stargazers_count": 3409,
     "open_issues_count": 3,
-    "forks_count": 388
+    "forks_count": 389
   },
   {
     "full_name": "0xarchit/ArcArcGo",
@@ -140,7 +158,7 @@
   {
     "full_name": "sarim2000/pennywiseai-tracker",
     "stargazers_count": 139,
-    "open_issues_count": 17,
+    "open_issues_count": 26,
     "forks_count": 13
   },
   {
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "GermanCoding/SyncTrayzor",
-    "stargazers_count": 499,
-    "open_issues_count": 9,
-    "forks_count": 7
+    "stargazers_count": 525,
+    "open_issues_count": 11,
+    "forks_count": 9
   },
   {
     "full_name": "marsidev/react-turnstile",
-    "stargazers_count": 646,
+    "stargazers_count": 648,
     "open_issues_count": 0,
     "forks_count": 36
-  },
-  {
-    "full_name": "openlaunch-org/Open-Launch",
-    "stargazers_count": 222,
-    "open_issues_count": 2,
-    "forks_count": 48
-  },
-  {
-    "full_name": "SendWithSES/Drag-and-Drop-Email-Designer",
-    "stargazers_count": 1941,
-    "open_issues_count": 2,
-    "forks_count": 115
-  },
-  {
-    "full_name": "eds2002/react-native-screen-transitions",
-    "stargazers_count": 697,
-    "open_issues_count": 5,
-    "forks_count": 22
   }
 ]
