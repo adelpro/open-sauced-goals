@@ -1,9 +1,39 @@
 [
   {
+    "full_name": "kozakdenys/qr-code-styling",
+    "stargazers_count": 2491,
+    "open_issues_count": 100,
+    "forks_count": 609
+  },
+  {
+    "full_name": "stolinski/css-mcp",
+    "stargazers_count": 187,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "angrysky56/astermind-elm-mcp",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "colanode/colanode",
+    "stargazers_count": 3893,
+    "open_issues_count": 19,
+    "forks_count": 201
+  },
+  {
+    "full_name": "infiniteCrank/AsterMind-ELM",
+    "stargazers_count": 122,
+    "open_issues_count": 2,
+    "forks_count": 11
+  },
+  {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 6792,
-    "open_issues_count": 96,
-    "forks_count": 784
+    "stargazers_count": 7870,
+    "open_issues_count": 94,
+    "forks_count": 877
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
@@ -19,15 +49,15 @@
   },
   {
     "full_name": "rn0x/Quran-Data",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 0,
     "forks_count": 39
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 245,
-    "open_issues_count": 0,
-    "forks_count": 15
+    "stargazers_count": 397,
+    "open_issues_count": 1,
+    "forks_count": 23
   },
   {
     "full_name": "ahr9n/quranic-search-v2",
@@ -37,15 +67,15 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6264,
+    "stargazers_count": 6270,
     "open_issues_count": 116,
     "forks_count": 480
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14182,
+    "stargazers_count": 14184,
     "open_issues_count": 345,
-    "forks_count": 2702
+    "forks_count": 2705
   },
   {
     "full_name": "Aditya987456/Second-brain-app",
@@ -55,33 +85,27 @@
   },
   {
     "full_name": "Itqan-community/quran-apps-directory",
-    "stargazers_count": 14,
-    "open_issues_count": 54,
-    "forks_count": 2
-  },
-  {
-    "full_name": "bllfoad/ayahai-web",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 15,
+    "open_issues_count": 55,
+    "forks_count": 3
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1142,
-    "open_issues_count": 7,
-    "forks_count": 209
+    "stargazers_count": 1154,
+    "open_issues_count": 8,
+    "forks_count": 212
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 15651,
+    "stargazers_count": 15899,
     "open_issues_count": 47,
-    "forks_count": 1166
+    "forks_count": 1192
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 7399,
-    "open_issues_count": 23,
-    "forks_count": 1041
+    "stargazers_count": 7570,
+    "open_issues_count": 24,
+    "forks_count": 1067
   },
   {
     "full_name": "aajafry/shaha",
@@ -97,19 +121,19 @@
   },
   {
     "full_name": "tesseral-labs/tesseral",
-    "stargazers_count": 1063,
+    "stargazers_count": 1067,
     "open_issues_count": 6,
     "forks_count": 45
   },
   {
     "full_name": "graphicmade/contribhub",
-    "stargazers_count": 25,
-    "open_issues_count": 2,
+    "stargazers_count": 26,
+    "open_issues_count": 3,
     "forks_count": 24
   },
   {
     "full_name": "cyntler/hamburger-react",
-    "stargazers_count": 1044,
+    "stargazers_count": 1045,
     "open_issues_count": 11,
     "forks_count": 40
   },
@@ -121,7 +145,7 @@
   },
   {
     "full_name": "OpenHealthForAll/open-health",
-    "stargazers_count": 3704,
+    "stargazers_count": 3708,
     "open_issues_count": 54,
     "forks_count": 398
   },
@@ -129,54 +153,30 @@
     "full_name": "VrandaaGarg/SmartBite",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "OpenBMB/MiniCPM-V",
-    "stargazers_count": 22052,
-    "open_issues_count": 81,
-    "forks_count": 1649
+    "stargazers_count": 22071,
+    "open_issues_count": 75,
+    "forks_count": 1652
   },
   {
     "full_name": "Scriptbash/Wispar",
     "stargazers_count": 100,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "hotheadhacker/seedbox-lite",
-    "stargazers_count": 3925,
+    "stargazers_count": 4014,
     "open_issues_count": 30,
-    "forks_count": 275
+    "forks_count": 285
   },
   {
     "full_name": "mercurjs/mercur",
-    "stargazers_count": 1197,
+    "stargazers_count": 1203,
     "open_issues_count": 36,
-    "forks_count": 228
-  },
-  {
-    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 90456,
-    "open_issues_count": 82,
-    "forks_count": 24620
-  },
-  {
-    "full_name": "NevaMind-AI/memU",
-    "stargazers_count": 2575,
-    "open_issues_count": 31,
-    "forks_count": 151
-  },
-  {
-    "full_name": "alwalxed/qafiyah",
-    "stargazers_count": 195,
-    "open_issues_count": 2,
-    "forks_count": 15
-  },
-  {
-    "full_name": "murtaza-nasir/maestro",
-    "stargazers_count": 1314,
-    "open_issues_count": 10,
-    "forks_count": 119
+    "forks_count": 231
   }
 ]
