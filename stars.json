@@ -1,43 +1,49 @@
 [
   {
+    "full_name": "Itqan-community/cms-frontend",
+    "stargazers_count": 1,
+    "open_issues_count": 7,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Itqan-community/iqra-al-quran",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2511,
+    "stargazers_count": 2523,
     "open_issues_count": 100,
-    "forks_count": 611
+    "forks_count": 615
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 224,
+    "stargazers_count": 240,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "angrysky56/astermind-elm-mcp",
-    "stargazers_count": 3,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 3933,
-    "open_issues_count": 18,
-    "forks_count": 204
-  },
-  {
-    "full_name": "infiniteCrank/AsterMind-ELM",
-    "stargazers_count": 139,
-    "open_issues_count": 3,
-    "forks_count": 12
+    "stargazers_count": 3996,
+    "open_issues_count": 22,
+    "forks_count": 210
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8097,
-    "open_issues_count": 94,
-    "forks_count": 896
+    "stargazers_count": 8285,
+    "open_issues_count": 98,
+    "forks_count": 914
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
-    "stargazers_count": 1,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "rn0x/Quran-Data",
-    "stargazers_count": 193,
+    "stargazers_count": 195,
     "open_issues_count": 0,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 416,
-    "open_issues_count": 1,
-    "forks_count": 24
+    "stargazers_count": 440,
+    "open_issues_count": 0,
+    "forks_count": 25
   },
   {
     "full_name": "ahr9n/quranic-search-v2",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6270,
+    "stargazers_count": 6269,
     "open_issues_count": 116,
     "forks_count": 481
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14197,
+    "stargazers_count": 14206,
     "open_issues_count": 343,
-    "forks_count": 2702
+    "forks_count": 2703
   },
   {
     "full_name": "Aditya987456/Second-brain-app",
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1175,
+    "stargazers_count": 1185,
     "open_issues_count": 9,
-    "forks_count": 218
+    "forks_count": 223
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 16097,
-    "open_issues_count": 49,
-    "forks_count": 1209
+    "stargazers_count": 16264,
+    "open_issues_count": 52,
+    "forks_count": 1221
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 7651,
-    "open_issues_count": 24,
-    "forks_count": 1079
+    "stargazers_count": 7673,
+    "open_issues_count": 25,
+    "forks_count": 1084
   },
   {
     "full_name": "aajafry/shaha",
@@ -117,7 +123,7 @@
     "full_name": "bradtraversy/prostore",
     "stargazers_count": 292,
     "open_issues_count": 11,
-    "forks_count": 146
+    "forks_count": 147
   },
   {
     "full_name": "tesseral-labs/tesseral",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "graphicmade/contribhub",
-    "stargazers_count": 26,
+    "stargazers_count": 25,
     "open_issues_count": 3,
     "forks_count": 24
   },
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "OpenHealthForAll/open-health",
-    "stargazers_count": 3711,
+    "stargazers_count": 3716,
     "open_issues_count": 54,
     "forks_count": 397
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "OpenBMB/MiniCPM-V",
-    "stargazers_count": 22080,
-    "open_issues_count": 79,
-    "forks_count": 1655
+    "stargazers_count": 22097,
+    "open_issues_count": 80,
+    "forks_count": 1656
   },
   {
     "full_name": "Scriptbash/Wispar",
-    "stargazers_count": 102,
-    "open_issues_count": 6,
+    "stargazers_count": 104,
+    "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "hotheadhacker/seedbox-lite",
-    "stargazers_count": 4031,
+    "stargazers_count": 4057,
     "open_issues_count": 30,
-    "forks_count": 286
-  },
-  {
-    "full_name": "mercurjs/mercur",
-    "stargazers_count": 1210,
-    "open_issues_count": 25,
-    "forks_count": 234
+    "forks_count": 290
   }
 ]
