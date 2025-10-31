@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "coturn/coturn",
+    "stargazers_count": 13126,
+    "open_issues_count": 374,
+    "forks_count": 2174
+  },
+  {
     "full_name": "Itqan-community/cms-frontend",
     "stargazers_count": 1,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 1
   },
   {
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2545,
+    "stargazers_count": 2550,
     "open_issues_count": 100,
-    "forks_count": 617
+    "forks_count": 619
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 268,
+    "stargazers_count": 273,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -31,14 +37,14 @@
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4037,
+    "stargazers_count": 4052,
     "open_issues_count": 24,
-    "forks_count": 211
+    "forks_count": 213
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8431,
-    "open_issues_count": 86,
+    "stargazers_count": 8460,
+    "open_issues_count": 90,
     "forks_count": 923
   },
   {
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 456,
-    "open_issues_count": 0,
+    "stargazers_count": 462,
+    "open_issues_count": 1,
     "forks_count": 27
   },
   {
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6269,
+    "stargazers_count": 6278,
     "open_issues_count": 116,
     "forks_count": 480
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14217,
+    "stargazers_count": 14222,
     "open_issues_count": 343,
     "forks_count": 2705
   },
@@ -97,21 +103,21 @@
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1207,
+    "stargazers_count": 1215,
     "open_issues_count": 10,
-    "forks_count": 233
+    "forks_count": 237
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 16444,
-    "open_issues_count": 55,
-    "forks_count": 1245
+    "stargazers_count": 16598,
+    "open_issues_count": 59,
+    "forks_count": 1263
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 7855,
+    "stargazers_count": 7916,
     "open_issues_count": 25,
-    "forks_count": 1124
+    "forks_count": 1132
   },
   {
     "full_name": "aajafry/shaha",
@@ -121,13 +127,13 @@
   },
   {
     "full_name": "bradtraversy/prostore",
-    "stargazers_count": 293,
+    "stargazers_count": 295,
     "open_issues_count": 11,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "tesseral-labs/tesseral",
-    "stargazers_count": 1071,
+    "stargazers_count": 1073,
     "open_issues_count": 6,
     "forks_count": 47
   },
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "OpenHealthForAll/open-health",
-    "stargazers_count": 3720,
+    "stargazers_count": 3721,
     "open_issues_count": 55,
     "forks_count": 399
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "OpenBMB/MiniCPM-V",
-    "stargazers_count": 22136,
-    "open_issues_count": 82,
-    "forks_count": 1657
+    "stargazers_count": 22161,
+    "open_issues_count": 83,
+    "forks_count": 1660
   },
   {
     "full_name": "Scriptbash/Wispar",
-    "stargazers_count": 109,
-    "open_issues_count": 9,
+    "stargazers_count": 111,
+    "open_issues_count": 8,
     "forks_count": 10
-  },
-  {
-    "full_name": "hotheadhacker/seedbox-lite",
-    "stargazers_count": 4084,
-    "open_issues_count": 31,
-    "forks_count": 292
   }
 ]
