@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "Qualiora/shadboard",
+    "stargazers_count": 516,
+    "open_issues_count": 3,
+    "forks_count": 95
+  },
+  {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13126,
+    "stargazers_count": 13147,
     "open_issues_count": 374,
     "forks_count": 2174
   },
@@ -19,33 +25,33 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2550,
+    "stargazers_count": 2561,
     "open_issues_count": 100,
-    "forks_count": 619
+    "forks_count": 620
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 273,
+    "stargazers_count": 274,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "angrysky56/astermind-elm-mcp",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4052,
-    "open_issues_count": 24,
-    "forks_count": 213
+    "stargazers_count": 4067,
+    "open_issues_count": 23,
+    "forks_count": 216
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8460,
-    "open_issues_count": 90,
-    "forks_count": 923
+    "stargazers_count": 8564,
+    "open_issues_count": 92,
+    "forks_count": 933
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "oazabir/QuranApp",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 27,
     "forks_count": 26
   },
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 462,
+    "stargazers_count": 470,
     "open_issues_count": 1,
     "forks_count": 27
   },
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6278,
+    "stargazers_count": 6309,
     "open_issues_count": 116,
-    "forks_count": 480
+    "forks_count": 487
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14222,
+    "stargazers_count": 14225,
     "open_issues_count": 343,
-    "forks_count": 2705
+    "forks_count": 2707
   },
   {
     "full_name": "Aditya987456/Second-brain-app",
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1215,
+    "stargazers_count": 1223,
     "open_issues_count": 10,
-    "forks_count": 237
+    "forks_count": 243
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 16598,
-    "open_issues_count": 59,
-    "forks_count": 1263
+    "stargazers_count": 16827,
+    "open_issues_count": 61,
+    "forks_count": 1279
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 7916,
-    "open_issues_count": 25,
-    "forks_count": 1132
+    "stargazers_count": 8838,
+    "open_issues_count": 27,
+    "forks_count": 1224
   },
   {
     "full_name": "aajafry/shaha",
@@ -127,25 +133,25 @@
   },
   {
     "full_name": "bradtraversy/prostore",
-    "stargazers_count": 295,
+    "stargazers_count": 297,
     "open_issues_count": 11,
     "forks_count": 148
   },
   {
     "full_name": "tesseral-labs/tesseral",
-    "stargazers_count": 1073,
+    "stargazers_count": 1077,
     "open_issues_count": 6,
     "forks_count": 47
   },
   {
     "full_name": "graphicmade/contribhub",
     "stargazers_count": 25,
-    "open_issues_count": 3,
-    "forks_count": 24
+    "open_issues_count": 0,
+    "forks_count": 23
   },
   {
     "full_name": "cyntler/hamburger-react",
-    "stargazers_count": 1044,
+    "stargazers_count": 1045,
     "open_issues_count": 11,
     "forks_count": 41
   },
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "OpenHealthForAll/open-health",
-    "stargazers_count": 3721,
+    "stargazers_count": 3727,
     "open_issues_count": 55,
-    "forks_count": 399
+    "forks_count": 401
   },
   {
     "full_name": "VrandaaGarg/SmartBite",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "OpenBMB/MiniCPM-V",
-    "stargazers_count": 22161,
+    "stargazers_count": 22176,
     "open_issues_count": 83,
-    "forks_count": 1660
-  },
-  {
-    "full_name": "Scriptbash/Wispar",
-    "stargazers_count": 111,
-    "open_issues_count": 8,
-    "forks_count": 10
+    "forks_count": 1664
   }
 ]
