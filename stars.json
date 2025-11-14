@@ -1,21 +1,39 @@
 [
   {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "stargazers_count": 77331,
+    "open_issues_count": 0,
+    "forks_count": 10260
+  },
+  {
+    "full_name": "adelpro/open-muezzin",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "adminmart/Modernize-Nextjs-Free",
+    "stargazers_count": 369,
+    "open_issues_count": 5,
+    "forks_count": 184
+  },
+  {
     "full_name": "gannonh/memento-mcp",
-    "stargazers_count": 354,
+    "stargazers_count": 356,
     "open_issues_count": 17,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 527,
+    "stargazers_count": 529,
     "open_issues_count": 3,
-    "forks_count": 99
+    "forks_count": 101
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13175,
+    "stargazers_count": 13189,
     "open_issues_count": 374,
-    "forks_count": 2177
+    "forks_count": 2178
   },
   {
     "full_name": "Itqan-community/cms-frontend",
@@ -31,13 +49,13 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2571,
+    "stargazers_count": 2575,
     "open_issues_count": 100,
-    "forks_count": 621
+    "forks_count": 622
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 279,
+    "stargazers_count": 280,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -49,15 +67,15 @@
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4093,
+    "stargazers_count": 4111,
     "open_issues_count": 21,
-    "forks_count": 216
+    "forks_count": 218
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8673,
+    "stargazers_count": 8685,
     "open_issues_count": 89,
-    "forks_count": 937
+    "forks_count": 938
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
@@ -74,12 +92,12 @@
   {
     "full_name": "rn0x/Quran-Data",
     "stargazers_count": 195,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 40
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 480,
+    "stargazers_count": 484,
     "open_issues_count": 1,
     "forks_count": 28
   },
@@ -91,14 +109,14 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6316,
+    "stargazers_count": 6317,
     "open_issues_count": 116,
-    "forks_count": 491
+    "forks_count": 492
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14240,
-    "open_issues_count": 343,
+    "stargazers_count": 14243,
+    "open_issues_count": 344,
     "forks_count": 2711
   },
   {
@@ -110,26 +128,26 @@
   {
     "full_name": "Itqan-community/quran-apps-directory",
     "stargazers_count": 16,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 3
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1259,
+    "stargazers_count": 1284,
     "open_issues_count": 11,
-    "forks_count": 254
+    "forks_count": 261
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 17061,
-    "open_issues_count": 63,
-    "forks_count": 1297
+    "stargazers_count": 17140,
+    "open_issues_count": 64,
+    "forks_count": 1301
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 10007,
-    "open_issues_count": 23,
-    "forks_count": 1355
+    "stargazers_count": 10194,
+    "open_issues_count": 25,
+    "forks_count": 1386
   },
   {
     "full_name": "aajafry/shaha",
@@ -139,15 +157,15 @@
   },
   {
     "full_name": "bradtraversy/prostore",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 11,
     "forks_count": 149
   },
   {
     "full_name": "tesseral-labs/tesseral",
-    "stargazers_count": 1079,
+    "stargazers_count": 1081,
     "open_issues_count": 6,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "graphicmade/contribhub",
@@ -160,23 +178,5 @@
     "stargazers_count": 1042,
     "open_issues_count": 11,
     "forks_count": 41
-  },
-  {
-    "full_name": "Zizwar/terminalit",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "OpenHealthForAll/open-health",
-    "stargazers_count": 3730,
-    "open_issues_count": 55,
-    "forks_count": 403
-  },
-  {
-    "full_name": "VrandaaGarg/SmartBite",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
