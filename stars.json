@@ -1,21 +1,21 @@
 [
   {
     "full_name": "francescopace/espectre",
-    "stargazers_count": 2352,
-    "open_issues_count": 2,
-    "forks_count": 164
+    "stargazers_count": 3132,
+    "open_issues_count": 4,
+    "forks_count": 208
   },
   {
     "full_name": "bilalharouchi/tailwindcss-corner-shape",
-    "stargazers_count": 15,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 78724,
-    "open_issues_count": 1,
-    "forks_count": 10481
+    "stargazers_count": 79264,
+    "open_issues_count": 3,
+    "forks_count": 10589
   },
   {
     "full_name": "adelpro/open-muezzin",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "adminmart/Modernize-Nextjs-Free",
-    "stargazers_count": 370,
+    "stargazers_count": 371,
     "open_issues_count": 5,
     "forks_count": 184
   },
   {
     "full_name": "gannonh/memento-mcp",
-    "stargazers_count": 356,
+    "stargazers_count": 358,
     "open_issues_count": 17,
     "forks_count": 56
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 532,
+    "stargazers_count": 536,
     "open_issues_count": 3,
-    "forks_count": 103
+    "forks_count": 104
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13205,
-    "open_issues_count": 374,
-    "forks_count": 2178
+    "stargazers_count": 13220,
+    "open_issues_count": 377,
+    "forks_count": 2180
   },
   {
     "full_name": "Itqan-community/cms-frontend",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2582,
+    "stargazers_count": 2587,
     "open_issues_count": 100,
-    "forks_count": 625
+    "forks_count": 626
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 298,
+    "stargazers_count": 299,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4126,
+    "stargazers_count": 4132,
     "open_issues_count": 25,
-    "forks_count": 218
+    "forks_count": 217
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8691,
-    "open_issues_count": 89,
+    "stargazers_count": 8706,
+    "open_issues_count": 87,
     "forks_count": 938
   },
   {
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "rn0x/Quran-Data",
-    "stargazers_count": 195,
+    "stargazers_count": 196,
     "open_issues_count": 1,
     "forks_count": 40
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 486,
-    "open_issues_count": 1,
-    "forks_count": 29
+    "stargazers_count": 491,
+    "open_issues_count": 2,
+    "forks_count": 30
   },
   {
     "full_name": "ahr9n/quranic-search-v2",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6322,
+    "stargazers_count": 6384,
     "open_issues_count": 115,
-    "forks_count": 491
+    "forks_count": 504
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14251,
+    "stargazers_count": 14262,
     "open_issues_count": 345,
-    "forks_count": 2711
+    "forks_count": 2713
   },
   {
     "full_name": "Aditya987456/Second-brain-app",
@@ -140,26 +140,26 @@
   {
     "full_name": "Itqan-community/quran-apps-directory",
     "stargazers_count": 17,
-    "open_issues_count": 54,
+    "open_issues_count": 55,
     "forks_count": 3
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1298,
+    "stargazers_count": 1301,
     "open_issues_count": 9,
-    "forks_count": 266
+    "forks_count": 267
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 17217,
+    "stargazers_count": 17266,
     "open_issues_count": 66,
-    "forks_count": 1311
+    "forks_count": 1316
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 10391,
-    "open_issues_count": 34,
-    "forks_count": 1411
+    "stargazers_count": 10538,
+    "open_issues_count": 24,
+    "forks_count": 1427
   },
   {
     "full_name": "aajafry/shaha",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "bradtraversy/prostore",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 11,
     "forks_count": 150
   },
   {
     "full_name": "tesseral-labs/tesseral",
-    "stargazers_count": 1082,
-    "open_issues_count": 6,
+    "stargazers_count": 1085,
+    "open_issues_count": 10,
     "forks_count": 48
   }
 ]
