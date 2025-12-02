@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "alexpate/awesome-design-systems",
+    "stargazers_count": 18603,
+    "open_issues_count": 7,
+    "forks_count": 1137
+  },
+  {
     "full_name": "mohamedshawky982/react-native-quran-hafs",
-    "stargazers_count": 6,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "francescopace/espectre",
-    "stargazers_count": 3411,
-    "open_issues_count": 2,
-    "forks_count": 227
+    "stargazers_count": 3546,
+    "open_issues_count": 3,
+    "forks_count": 232
   },
   {
     "full_name": "bilalharouchi/tailwindcss-corner-shape",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 80533,
-    "open_issues_count": 2,
-    "forks_count": 11044
+    "stargazers_count": 81278,
+    "open_issues_count": 3,
+    "forks_count": 11252
   },
   {
     "full_name": "adelpro/open-muezzin",
@@ -33,25 +39,25 @@
     "full_name": "adminmart/Modernize-Nextjs-Free",
     "stargazers_count": 373,
     "open_issues_count": 5,
-    "forks_count": 184
+    "forks_count": 183
   },
   {
     "full_name": "gannonh/memento-mcp",
-    "stargazers_count": 363,
+    "stargazers_count": 364,
     "open_issues_count": 17,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 542,
+    "stargazers_count": 546,
     "open_issues_count": 3,
     "forks_count": 106
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13250,
-    "open_issues_count": 374,
-    "forks_count": 2183
+    "stargazers_count": 13266,
+    "open_issues_count": 373,
+    "forks_count": 2186
   },
   {
     "full_name": "Itqan-community/cms-frontend",
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2600,
+    "stargazers_count": 2607,
     "open_issues_count": 102,
-    "forks_count": 636
+    "forks_count": 641
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 301,
+    "stargazers_count": 305,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4141,
+    "stargazers_count": 4147,
     "open_issues_count": 28,
-    "forks_count": 216
+    "forks_count": 217
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8728,
-    "open_issues_count": 87,
-    "forks_count": 948
+    "stargazers_count": 8741,
+    "open_issues_count": 90,
+    "forks_count": 953
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
@@ -109,13 +115,13 @@
   },
   {
     "full_name": "rn0x/Quran-Data",
-    "stargazers_count": 196,
+    "stargazers_count": 198,
     "open_issues_count": 1,
     "forks_count": 40
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 504,
+    "stargazers_count": 506,
     "open_issues_count": 1,
     "forks_count": 30
   },
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6442,
+    "stargazers_count": 6446,
     "open_issues_count": 115,
-    "forks_count": 509
+    "forks_count": 508
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14276,
-    "open_issues_count": 345,
-    "forks_count": 2714
+    "stargazers_count": 14285,
+    "open_issues_count": 344,
+    "forks_count": 2715
   },
   {
     "full_name": "Aditya987456/Second-brain-app",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1320,
+    "stargazers_count": 1325,
     "open_issues_count": 9,
-    "forks_count": 272
+    "forks_count": 273
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 17365,
+    "stargazers_count": 17405,
     "open_issues_count": 73,
-    "forks_count": 1330
+    "forks_count": 1333
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 10837,
-    "open_issues_count": 27,
-    "forks_count": 1477
+    "stargazers_count": 11077,
+    "open_issues_count": 28,
+    "forks_count": 1516
   },
   {
     "full_name": "aajafry/shaha",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "bradtraversy/prostore",
-    "stargazers_count": 305,
-    "open_issues_count": 11,
-    "forks_count": 153
   }
 ]
