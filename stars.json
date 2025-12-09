@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "firecrawl/open-scouts",
+    "stargazers_count": 360,
+    "open_issues_count": 0,
+    "forks_count": 55
+  },
+  {
     "full_name": "alexpate/awesome-design-systems",
-    "stargazers_count": 18613,
-    "open_issues_count": 7,
-    "forks_count": 1137
+    "stargazers_count": 18622,
+    "open_issues_count": 8,
+    "forks_count": 1139
   },
   {
     "full_name": "mohamedshawky982/react-native-quran-hafs",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "francescopace/espectre",
-    "stargazers_count": 3629,
-    "open_issues_count": 5,
-    "forks_count": 239
+    "stargazers_count": 3713,
+    "open_issues_count": 1,
+    "forks_count": 245
   },
   {
     "full_name": "bilalharouchi/tailwindcss-corner-shape",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 81644,
+    "stargazers_count": 82062,
     "open_issues_count": 5,
-    "forks_count": 11335
+    "forks_count": 11467
   },
   {
     "full_name": "adelpro/open-muezzin",
@@ -37,32 +43,32 @@
   },
   {
     "full_name": "adminmart/Modernize-Nextjs-Free",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 5,
     "forks_count": 183
   },
   {
     "full_name": "gannonh/memento-mcp",
-    "stargazers_count": 368,
+    "stargazers_count": 369,
     "open_issues_count": 17,
-    "forks_count": 57
+    "forks_count": 56
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 547,
+    "stargazers_count": 550,
     "open_issues_count": 3,
     "forks_count": 106
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13276,
-    "open_issues_count": 374,
-    "forks_count": 2188
+    "stargazers_count": 13299,
+    "open_issues_count": 375,
+    "forks_count": 2192
   },
   {
     "full_name": "Itqan-community/cms-frontend",
     "stargazers_count": 1,
-    "open_issues_count": 5,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2610,
+    "stargazers_count": 2614,
     "open_issues_count": 102,
-    "forks_count": 642
+    "forks_count": 643
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4150,
-    "open_issues_count": 28,
-    "forks_count": 217
+    "stargazers_count": 4157,
+    "open_issues_count": 29,
+    "forks_count": 221
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8746,
-    "open_issues_count": 92,
-    "forks_count": 953
+    "stargazers_count": 8757,
+    "open_issues_count": 91,
+    "forks_count": 956
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 551,
+    "stargazers_count": 571,
     "open_issues_count": 1,
-    "forks_count": 31
+    "forks_count": 34
   },
   {
     "full_name": "ahr9n/quranic-search-v2",
@@ -133,13 +139,13 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6453,
+    "stargazers_count": 6461,
     "open_issues_count": 115,
-    "forks_count": 508
+    "forks_count": 509
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14292,
+    "stargazers_count": 14297,
     "open_issues_count": 344,
     "forks_count": 2717
   },
@@ -152,31 +158,25 @@
   {
     "full_name": "Itqan-community/quran-apps-directory",
     "stargazers_count": 18,
-    "open_issues_count": 61,
+    "open_issues_count": 62,
     "forks_count": 3
   },
   {
     "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1331,
-    "open_issues_count": 10,
-    "forks_count": 274
+    "stargazers_count": 1340,
+    "open_issues_count": 12,
+    "forks_count": 275
   },
   {
     "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 17475,
-    "open_issues_count": 75,
-    "forks_count": 1339
+    "stargazers_count": 17527,
+    "open_issues_count": 76,
+    "forks_count": 1344
   },
   {
     "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 11374,
+    "stargazers_count": 11632,
     "open_issues_count": 31,
-    "forks_count": 1537
-  },
-  {
-    "full_name": "aajafry/shaha",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1569
   }
 ]
