@@ -1,13 +1,31 @@
 [
   {
-    "full_name": "firecrawl/open-scouts",
-    "stargazers_count": 360,
+    "full_name": "adelpro/cms-frontend",
+    "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 55
+    "forks_count": 0
+  },
+  {
+    "full_name": "khmyznikov/pwa-install",
+    "stargazers_count": 693,
+    "open_issues_count": 7,
+    "forks_count": 108
+  },
+  {
+    "full_name": "benotsman-youssuf/kamil",
+    "stargazers_count": 34,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "firecrawl/open-scouts",
+    "stargazers_count": 584,
+    "open_issues_count": 2,
+    "forks_count": 84
   },
   {
     "full_name": "alexpate/awesome-design-systems",
-    "stargazers_count": 18622,
+    "stargazers_count": 18635,
     "open_issues_count": 8,
     "forks_count": 1139
   },
@@ -19,9 +37,9 @@
   },
   {
     "full_name": "francescopace/espectre",
-    "stargazers_count": 3713,
+    "stargazers_count": 3763,
     "open_issues_count": 1,
-    "forks_count": 245
+    "forks_count": 252
   },
   {
     "full_name": "bilalharouchi/tailwindcss-corner-shape",
@@ -31,9 +49,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 82062,
-    "open_issues_count": 5,
-    "forks_count": 11467
+    "stargazers_count": 82411,
+    "open_issues_count": 7,
+    "forks_count": 11568
   },
   {
     "full_name": "adelpro/open-muezzin",
@@ -44,31 +62,31 @@
   {
     "full_name": "adminmart/Modernize-Nextjs-Free",
     "stargazers_count": 374,
-    "open_issues_count": 5,
-    "forks_count": 183
+    "open_issues_count": 6,
+    "forks_count": 184
   },
   {
     "full_name": "gannonh/memento-mcp",
-    "stargazers_count": 369,
-    "open_issues_count": 17,
-    "forks_count": 56
+    "stargazers_count": 373,
+    "open_issues_count": 18,
+    "forks_count": 57
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 550,
+    "stargazers_count": 553,
     "open_issues_count": 3,
     "forks_count": 106
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13299,
-    "open_issues_count": 375,
+    "stargazers_count": 13317,
+    "open_issues_count": 377,
     "forks_count": 2192
   },
   {
     "full_name": "Itqan-community/cms-frontend",
     "stargazers_count": 1,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -79,13 +97,13 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2614,
-    "open_issues_count": 102,
-    "forks_count": 643
+    "stargazers_count": 2616,
+    "open_issues_count": 104,
+    "forks_count": 646
   },
   {
     "full_name": "stolinski/css-mcp",
-    "stargazers_count": 308,
+    "stargazers_count": 309,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -97,15 +115,15 @@
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4157,
+    "stargazers_count": 4163,
     "open_issues_count": 29,
-    "forks_count": 221
+    "forks_count": 222
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8757,
-    "open_issues_count": 91,
-    "forks_count": 956
+    "stargazers_count": 8769,
+    "open_issues_count": 88,
+    "forks_count": 961
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
@@ -127,27 +145,27 @@
   },
   {
     "full_name": "denho/faved",
-    "stargazers_count": 571,
+    "stargazers_count": 583,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "ahr9n/quranic-search-v2",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 6461,
+    "stargazers_count": 6455,
     "open_issues_count": 115,
-    "forks_count": 509
+    "forks_count": 508
   },
   {
     "full_name": "wifiphisher/wifiphisher",
-    "stargazers_count": 14297,
-    "open_issues_count": 344,
-    "forks_count": 2717
+    "stargazers_count": 14300,
+    "open_issues_count": 345,
+    "forks_count": 2719
   },
   {
     "full_name": "Aditya987456/Second-brain-app",
@@ -160,23 +178,5 @@
     "stargazers_count": 18,
     "open_issues_count": 62,
     "forks_count": 3
-  },
-  {
-    "full_name": "hexdocom/lemonai",
-    "stargazers_count": 1340,
-    "open_issues_count": 12,
-    "forks_count": 275
-  },
-  {
-    "full_name": "Alibaba-NLP/DeepResearch",
-    "stargazers_count": 17527,
-    "open_issues_count": 76,
-    "forks_count": 1344
-  },
-  {
-    "full_name": "HKUDS/DeepCode",
-    "stargazers_count": 11632,
-    "open_issues_count": 31,
-    "forks_count": 1569
   }
 ]
