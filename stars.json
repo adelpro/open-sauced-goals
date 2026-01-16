@@ -1,19 +1,19 @@
 [
   {
     "full_name": "gurselcakar/universal-react-monorepo",
-    "stargazers_count": 160,
+    "stargazers_count": 162,
     "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "sAleksovski/react-native-android-widget",
-    "stargazers_count": 802,
-    "open_issues_count": 4,
+    "stargazers_count": 804,
+    "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "enzomanuelmangano/pressto",
-    "stargazers_count": 642,
+    "stargazers_count": 655,
     "open_issues_count": 9,
     "forks_count": 4
   },
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "AmazonAppDev/react-native-multi-tv-app-sample",
-    "stargazers_count": 275,
+    "stargazers_count": 276,
     "open_issues_count": 5,
     "forks_count": 48
   },
   {
     "full_name": "bamlab/react-tv-space-navigation",
     "stargazers_count": 302,
-    "open_issues_count": 29,
-    "forks_count": 42
+    "open_issues_count": 30,
+    "forks_count": 43
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 7340,
-    "open_issues_count": 86,
-    "forks_count": 518
+    "stargazers_count": 7363,
+    "open_issues_count": 83,
+    "forks_count": 519
   },
   {
     "full_name": "dhanji/g3",
-    "stargazers_count": 350,
-    "open_issues_count": 15,
-    "forks_count": 81
+    "stargazers_count": 352,
+    "open_issues_count": 7,
+    "forks_count": 82
   },
   {
     "full_name": "adelpro/cms-frontend",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "khmyznikov/pwa-install",
-    "stargazers_count": 747,
+    "stargazers_count": 750,
     "open_issues_count": 7,
-    "forks_count": 114
+    "forks_count": 113
   },
   {
     "full_name": "benotsman-youssuf/kamil",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "firecrawl/open-scouts",
-    "stargazers_count": 1156,
+    "stargazers_count": 1170,
     "open_issues_count": 2,
-    "forks_count": 162
+    "forks_count": 163
   },
   {
     "full_name": "alexpate/awesome-design-systems",
-    "stargazers_count": 18721,
+    "stargazers_count": 18740,
     "open_issues_count": 8,
-    "forks_count": 1140
+    "forks_count": 1141
   },
   {
     "full_name": "mohamedshawky982/react-native-quran-hafs",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "francescopace/espectre",
-    "stargazers_count": 5565,
-    "open_issues_count": 2,
-    "forks_count": 413
+    "stargazers_count": 5626,
+    "open_issues_count": 3,
+    "forks_count": 417
   },
   {
     "full_name": "bilalharouchi/tailwindcss-corner-shape",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 87682,
-    "open_issues_count": 8,
-    "forks_count": 12530
+    "stargazers_count": 87954,
+    "open_issues_count": 6,
+    "forks_count": 12580
   },
   {
     "full_name": "adelpro/open-muezzin",
@@ -111,30 +111,30 @@
     "full_name": "adminmart/Modernize-Nextjs-Free",
     "stargazers_count": 392,
     "open_issues_count": 6,
-    "forks_count": 187
+    "forks_count": 186
   },
   {
     "full_name": "gannonh/memento-mcp",
-    "stargazers_count": 386,
+    "stargazers_count": 387,
     "open_issues_count": 19,
-    "forks_count": 58
+    "forks_count": 57
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 565,
+    "stargazers_count": 568,
     "open_issues_count": 3,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13442,
-    "open_issues_count": 374,
-    "forks_count": 2201
+    "stargazers_count": 13459,
+    "open_issues_count": 375,
+    "forks_count": 2198
   },
   {
     "full_name": "Itqan-community/cms-frontend",
     "stargazers_count": 1,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2662,
+    "stargazers_count": 2664,
     "open_issues_count": 107,
-    "forks_count": 656
+    "forks_count": 657
   },
   {
     "full_name": "stolinski/css-mcp",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "colanode/colanode",
-    "stargazers_count": 4290,
-    "open_issues_count": 27,
+    "stargazers_count": 4302,
+    "open_issues_count": 26,
     "forks_count": 230
   },
   {
     "full_name": "Stremio/stremio-web",
-    "stargazers_count": 8886,
-    "open_issues_count": 91,
-    "forks_count": 988
+    "stargazers_count": 8888,
+    "open_issues_count": 94,
+    "forks_count": 985
   },
   {
     "full_name": "engsaleh/Baheth-Quran",
