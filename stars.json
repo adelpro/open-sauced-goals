@@ -1,26 +1,32 @@
 [
   {
+    "full_name": "tambo-ai/tambo",
+    "stargazers_count": 3740,
+    "open_issues_count": 68,
+    "forks_count": 221
+  },
+  {
     "full_name": "coreyhaines31/marketingskills",
-    "stargazers_count": 542,
-    "open_issues_count": 0,
-    "forks_count": 68
+    "stargazers_count": 3739,
+    "open_issues_count": 6,
+    "forks_count": 388
   },
   {
     "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
-    "stargazers_count": 18271,
-    "open_issues_count": 25,
-    "forks_count": 1826
+    "stargazers_count": 21163,
+    "open_issues_count": 35,
+    "forks_count": 2158
   },
   {
     "full_name": "vudovn/antigravity-kit",
-    "stargazers_count": 1483,
-    "open_issues_count": 3,
-    "forks_count": 291
+    "stargazers_count": 2263,
+    "open_issues_count": 4,
+    "forks_count": 450
   },
   {
     "full_name": "adelpro/quran-search-engine",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 9,
     "forks_count": 0
   },
   {
@@ -31,19 +37,19 @@
   },
   {
     "full_name": "gurselcakar/universal-react-monorepo",
-    "stargazers_count": 163,
-    "open_issues_count": 4,
+    "stargazers_count": 165,
+    "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "sAleksovski/react-native-android-widget",
-    "stargazers_count": 805,
+    "stargazers_count": 807,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "enzomanuelmangano/pressto",
-    "stargazers_count": 659,
+    "stargazers_count": 661,
     "open_issues_count": 9,
     "forks_count": 5
   },
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "AmazonAppDev/react-native-multi-tv-app-sample",
-    "stargazers_count": 277,
+    "stargazers_count": 278,
     "open_issues_count": 5,
     "forks_count": 48
   },
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 7388,
+    "stargazers_count": 7408,
     "open_issues_count": 84,
-    "forks_count": 520
+    "forks_count": 525
   },
   {
     "full_name": "dhanji/g3",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "khmyznikov/pwa-install",
-    "stargazers_count": 751,
+    "stargazers_count": 753,
     "open_issues_count": 8,
     "forks_count": 114
   },
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "firecrawl/open-scouts",
-    "stargazers_count": 1176,
+    "stargazers_count": 1183,
     "open_issues_count": 2,
-    "forks_count": 165
+    "forks_count": 166
   },
   {
     "full_name": "alexpate/awesome-design-systems",
-    "stargazers_count": 18755,
+    "stargazers_count": 18770,
     "open_issues_count": 8,
-    "forks_count": 1140
+    "forks_count": 1141
   },
   {
     "full_name": "mohamedshawky982/react-native-quran-hafs",
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "francescopace/espectre",
-    "stargazers_count": 5686,
-    "open_issues_count": 4,
-    "forks_count": 428
+    "stargazers_count": 5727,
+    "open_issues_count": 3,
+    "forks_count": 433
   },
   {
     "full_name": "bilalharouchi/tailwindcss-corner-shape",
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 88292,
-    "open_issues_count": 10,
-    "forks_count": 12646
+    "stargazers_count": 88851,
+    "open_issues_count": 9,
+    "forks_count": 12761
   },
   {
     "full_name": "adelpro/open-muezzin",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "adminmart/Modernize-Nextjs-Free",
-    "stargazers_count": 397,
+    "stargazers_count": 398,
     "open_issues_count": 6,
     "forks_count": 188
   },
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 569,
+    "stargazers_count": 568,
     "open_issues_count": 3,
     "forks_count": 111
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 13466,
+    "stargazers_count": 13480,
     "open_issues_count": 375,
-    "forks_count": 2199
+    "forks_count": 2196
   },
   {
     "full_name": "Itqan-community/cms-frontend",
@@ -172,11 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "kozakdenys/qr-code-styling",
-    "stargazers_count": 2669,
-    "open_issues_count": 108,
-    "forks_count": 658
   }
 ]
