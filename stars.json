@@ -1,31 +1,49 @@
 [
   {
+    "full_name": "iTarek/Java-Quran-Web",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "quran-center/quran-meta",
+    "stargazers_count": 17,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
+    "full_name": "nqcm/synonyms-in-quran",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "tambo-ai/tambo",
-    "stargazers_count": 3740,
-    "open_issues_count": 68,
-    "forks_count": 221
+    "stargazers_count": 5593,
+    "open_issues_count": 30,
+    "forks_count": 255
   },
   {
     "full_name": "coreyhaines31/marketingskills",
-    "stargazers_count": 3739,
-    "open_issues_count": 6,
-    "forks_count": 388
+    "stargazers_count": 4854,
+    "open_issues_count": 1,
+    "forks_count": 516
   },
   {
     "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
-    "stargazers_count": 21163,
-    "open_issues_count": 35,
-    "forks_count": 2158
+    "stargazers_count": 23548,
+    "open_issues_count": 40,
+    "forks_count": 2406
   },
   {
     "full_name": "vudovn/antigravity-kit",
-    "stargazers_count": 2263,
-    "open_issues_count": 4,
-    "forks_count": 450
+    "stargazers_count": 3207,
+    "open_issues_count": 3,
+    "forks_count": 688
   },
   {
     "full_name": "adelpro/quran-search-engine",
-    "stargazers_count": 2,
+    "stargazers_count": 4,
     "open_issues_count": 9,
     "forks_count": 0
   },
@@ -37,19 +55,19 @@
   },
   {
     "full_name": "gurselcakar/universal-react-monorepo",
-    "stargazers_count": 165,
+    "stargazers_count": 166,
     "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "sAleksovski/react-native-android-widget",
-    "stargazers_count": 807,
+    "stargazers_count": 812,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "enzomanuelmangano/pressto",
-    "stargazers_count": 661,
+    "stargazers_count": 667,
     "open_issues_count": 9,
     "forks_count": 5
   },
@@ -61,27 +79,27 @@
   },
   {
     "full_name": "AmazonAppDev/react-native-multi-tv-app-sample",
-    "stargazers_count": 278,
+    "stargazers_count": 279,
     "open_issues_count": 5,
     "forks_count": 48
   },
   {
     "full_name": "bamlab/react-tv-space-navigation",
-    "stargazers_count": 303,
+    "stargazers_count": 304,
     "open_issues_count": 29,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 7408,
+    "stargazers_count": 7424,
     "open_issues_count": 84,
-    "forks_count": 525
+    "forks_count": 530
   },
   {
     "full_name": "dhanji/g3",
-    "stargazers_count": 357,
-    "open_issues_count": 7,
-    "forks_count": 82
+    "stargazers_count": 360,
+    "open_issues_count": 10,
+    "forks_count": 83
   },
   {
     "full_name": "adelpro/cms-frontend",
@@ -91,7 +109,7 @@
   },
   {
     "full_name": "khmyznikov/pwa-install",
-    "stargazers_count": 753,
+    "stargazers_count": 758,
     "open_issues_count": 8,
     "forks_count": 114
   },
@@ -103,27 +121,27 @@
   },
   {
     "full_name": "firecrawl/open-scouts",
-    "stargazers_count": 1183,
-    "open_issues_count": 2,
-    "forks_count": 166
+    "stargazers_count": 1186,
+    "open_issues_count": 3,
+    "forks_count": 167
   },
   {
     "full_name": "alexpate/awesome-design-systems",
-    "stargazers_count": 18770,
+    "stargazers_count": 18788,
     "open_issues_count": 8,
-    "forks_count": 1141
+    "forks_count": 1142
   },
   {
     "full_name": "mohamedshawky982/react-native-quran-hafs",
     "stargazers_count": 8,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "francescopace/espectre",
-    "stargazers_count": 5727,
+    "stargazers_count": 5953,
     "open_issues_count": 3,
-    "forks_count": 433
+    "forks_count": 449
   },
   {
     "full_name": "bilalharouchi/tailwindcss-corner-shape",
@@ -133,9 +151,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 88851,
-    "open_issues_count": 9,
-    "forks_count": 12761
+    "stargazers_count": 89689,
+    "open_issues_count": 10,
+    "forks_count": 12943
   },
   {
     "full_name": "adelpro/open-muezzin",
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "adminmart/Modernize-Nextjs-Free",
-    "stargazers_count": 398,
+    "stargazers_count": 400,
     "open_issues_count": 6,
     "forks_count": 188
   },
   {
     "full_name": "gannonh/memento-mcp",
-    "stargazers_count": 388,
+    "stargazers_count": 390,
     "open_issues_count": 19,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "Qualiora/shadboard",
-    "stargazers_count": 568,
+    "stargazers_count": 572,
     "open_issues_count": 3,
-    "forks_count": 111
-  },
-  {
-    "full_name": "coturn/coturn",
-    "stargazers_count": 13480,
-    "open_issues_count": 375,
-    "forks_count": 2196
-  },
-  {
-    "full_name": "Itqan-community/cms-frontend",
-    "stargazers_count": 1,
-    "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Itqan-community/iqra-al-quran",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 112
   }
 ]
